@@ -17,42 +17,54 @@ DevOps Engineer with **2.5+ years of experience** in building, automating, and m
 
 ## 🛠️ Tech Stack
 
-**Cloud:** Azure, AWS
-**IaC:** Terraform, ARM, Ansible
-**CI/CD:** Azure DevOps (YAML), Jenkins
-**Containers:** Docker, Kubernetes (AKS)
-**Monitoring:** Azure Monitor, CloudWatch
-**Scripting:** Bash, Python
-**Networking:** DNS, VPC/VNet, VPN, Load Balancer
+* **Scripting:** Bash, Python
+* **Cloud:** Azure, AWS
+* **IaC:** Terraform, ARM, Ansible, YAML
+* **CI/CD:** Azure DevOps, Jenkins
+* **Containers:** Docker, Kubernetes (AKS)
+* **Monitoring:** Azure Monitor, CloudWatch
+* **Networking:** DNS, VPC/VNet, VPN, Load Balancer
 
 ---
 
 ## 🚀 Key Highlights
 
-* 🔹 Automated DNS infrastructure improving resolution performance by **10x**
-* 🔹 Reduced manual validation effort by **40%** using automation pipelines
-* 🔹 Built CI/CD-based onboarding for **hybrid cloud connectivity (Azure + AWS + On-Prem)**
-* 🔹 Maintained **99.9% uptime** for production systems
-* 🔹 Developed reusable **Terraform modules for Azure infrastructure**
+*  Automated DNS infrastructure improving resolution performance by **10x**
+*  Reduced manual validation effort by **40%** using automation pipelines
+*  Built CI/CD-based onboarding for **hybrid cloud connectivity (Azure + AWS + On-Prem)**
+*  Maintained **99.9% uptime** for production systems
+*  Developed reusable **Terraform modules for Azure infrastructure**
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 Azure Terraform Module
+🔄 **Azure 3-Tier Architecture (Terraform)**
+      
+      📌 Overview
+             * Terraform-based deployment of a 3-tier architecture on Azure following Infrastructure as Code best practices.
+      * 🧱 Architecture
+             * Frontend: Load Balancer / Public Access
+             * Application: Virtual Machines
+             * Database: Secure backend layer
 
-Reusable Terraform module to provision Azure infrastructure (VMs, VNet, Storage).
+🚀 **Azure Terraform Module**
 
-👉 Focus: Modular design, scalability, multi-environment support
+    📌 Overview
+            * Reusable Terraform module to provision Azure infrastructure (VMs, VNet, Storage).
+    * 👉 Focus: Modular design, scalability, multi-environment support
+    * 👉 Module: https://registry.terraform.io/modules/mukul-329/virtual-machine-windows-linux/azurerm/latest
+    
 
 ---
 
 ## 📜 Certifications
 
+* 🏅 Python Certified Associate Programmer (PCAP)
 * 🏅 Azure DevOps Engineer Expert (AZ-400)
-* 🏅 Azure Administrator (AZ-104), AZ-700, AZ-900
 * 🏅 HashiCorp Terraform Associate
-* 🏅 PCEP (Python)
+* 🏅 Azure Network Engineer (AZ-700)
+* 🏅 Azure Administrator (AZ-104, AZ-900)
 
 ---
 
