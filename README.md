@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-DevOps Engineer with **2.5+ years of experience** in building, automating, and maintaining cloud infrastructure across **Azure and AWS**.
+DevOps Engineer with **3.5+ years of experience** in building, automating, and maintaining cloud infrastructure across **Azure and AWS**.
 
 * ⚡ Specialized in **Infrastructure as Code (Terraform)**
 * 🔄 Strong experience with **CI/CD pipelines (Azure DevOps, Jenkins)**
