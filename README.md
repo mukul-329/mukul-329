@@ -52,8 +52,8 @@ DevOps Engineer with **3.5+ years of experience** in building, automating, and m
 
     📌 Overview
             * Reusable Terraform module to provision Azure infrastructure (VMs, VNet, Storage).
-    * 👉 Focus: Modular design, scalability, multi-environment support
-    * 👉 Module: https://registry.terraform.io/modules/mukul-329/virtual-machine-windows-linux/azurerm/latest
+    - 👉 Focus: Modular design, scalability, multi-environment support
+    - 👉 Azure VM Terraform Module: https://registry.terraform.io/modules/mukul-329/virtual-machine-windows-linux/azurerm/
     
 
 ---
