@@ -74,10 +74,3 @@ DevOps Engineer with **3.5+ years of experience** in building, automating, and m
 * 📧 Email: [mukulsengar329@gmail.com](mailto:mukulsengar329@gmail.com)
 * 💻 GitHub: https://github.com/mukul-329
 
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mukul-329\&show_icons=true\&theme=default)
-
----
