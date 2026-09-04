@@ -1,12 +1,12 @@
 # Hi, I'm Mukul 👋
 
-🚀 DevOps Engineer | Azure | Terraform | CI/CD
+🚀 DevOps Engineer | AWS | Azure | Terraform | CI/CD | Kubernetes
 
 ---
 
 ## 👨‍💻 About Me
 
-DevOps Engineer with **3.5+ years of experience** in building, automating, and maintaining cloud infrastructure across **Azure and AWS**.
+DevOps Engineer with **3.10+ years of experience** in building, automating, and maintaining cloud infrastructure across **Azure and AWS**.
 
 * ⚡ Specialized in **Infrastructure as Code (Terraform)**
 * 🔄 Strong experience with **CI/CD pipelines (Azure DevOps, Jenkins)**
@@ -17,13 +17,13 @@ DevOps Engineer with **3.5+ years of experience** in building, automating, and m
 
 ## 🛠️ Tech Stack
 
-* **Scripting:** Bash, Python
-* **Cloud:** Azure, AWS
-* **IaC:** Terraform, ARM, Ansible, YAML
-* **CI/CD:** Azure DevOps, Jenkins
-* **Containers:** Docker, Kubernetes (AKS)
-* **Monitoring:** Azure Monitor, CloudWatch
-* **Networking:** DNS, VPC/VNet, VPN, Load Balancer
+* **Cloud:** AWS, Azure
+* **Scripting:** Python, Shell Scripting
+* **IaC:** Terraform, Ansible, Cloudformation
+* **CI/CD:** Azure DevOps, Jenkins, Github Actions
+* **Containerization:** Docker, Kubernetes, EKS
+* **Monitoring:** Prometheus, Grafana, CloudWatch 
+* **Networking:** DNS, TCP/UDP, VPN, Load Balancer, SSL/TLS, CDN
 
 ---
 
