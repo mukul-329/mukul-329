@@ -5,7 +5,6 @@
 
 I build and automate cloud infrastructure and CI/CD pipelines, transforming manual engineering tasks into version-controlled, testable, and repeatable automation.
 
-## 🧩 My Automation Mindset
 ### ⚡ Write it once. Automate it. Version it. Repeat it.
 ```text
 Can this be automated?
@@ -190,25 +189,6 @@ Terraform Module
 | **HashiCorp Certified: Terraform Associate 003** | Terraform, IaC |
 | **Python Certified Associate Programmer** | Python Programming |
 | **Microsoft Certified: AZ-900, AZ-104, AZ-700** | Azure Cloud & Networking |
-
-
-
-## 🧩 My Automation Mindset
-
-### ⚡ Write it once. Automate it. Version it. Repeat it.
-```text
-Can this be automated?
-          ↓
-Can it be version controlled?
-          ↓
-Can it be made repeatable?
-          ↓
-Can it be tested safely?
-          ↓
-Can CI/CD execute it?
-          ↓
-Can monitoring tell me when it fails?
-```
 
 
 ## 🛠️ Tech Stack
