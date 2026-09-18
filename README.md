@@ -2,10 +2,7 @@
 
 ### ♾️ DevOps Engineer | AWS | Docker | CI/CD | Kubernetes | 
 ### ⚡ Build. Automate. Learn. Repeat.
-I build and automate cloud infrastructure, deployment pipelines, and repeatable engineering workflows.
-
-My focus is on turning manual infrastructure and deployment tasks into **version-controlled, testable, and repeatable automation**.
-
+I build and automate cloud infrastructure and CI/CD pipelines, transforming manual engineering tasks into **version-controlled, testable, and repeatable automation**.
 ---
 
 ## 🧭 Currently Working On
