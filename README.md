@@ -218,5 +218,3 @@ Can monitoring tell me when it fails?
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukulsengar329@gmail.com)
 
 
----
-### ⚡ Build. Automate. Learn. Repeat.
