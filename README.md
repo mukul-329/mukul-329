@@ -5,6 +5,21 @@
 
 I build and automate cloud infrastructure and CI/CD pipelines, transforming manual engineering tasks into version-controlled, testable, and repeatable automation.
 
+## 🧩 My Automation Mindset
+### ⚡ Write it once. Automate it. Version it. Repeat it.
+```text
+Can this be automated?
+          ↓
+Can it be version controlled?
+          ↓
+Can it be made repeatable?
+          ↓
+Can it be tested safely?
+          ↓
+Can CI/CD execute it?
+          ↓
+Can monitoring tell me when it fails?
+```
 
 
 ## 🧭 Currently Working On
@@ -213,8 +228,10 @@ Can monitoring tell me when it fails?
 
 ## 🌐 Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mukul-329.github.io)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/mukul-329)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukulsengar/)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukulsengar329@gmail.com)
+[![AWS Builder Community](https://img.shields.io/badge/AWS%20BUILDER%20COMMUNITY-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://builder.aws.com/community/@withmukul)
 
 
