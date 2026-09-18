@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mukul Sengar 
 
-### ♾️ DevOps Engineer | AWS | Docker | CI/CD | Kubernetes | 
+### ♾️ DevOps Engineer | AWS | Docker | CI/CD | Kubernetes | Terraform
 ### ⚡ Build. Automate. Learn. Repeat.
 
 I build and automate cloud infrastructure and CI/CD pipelines, transforming manual engineering tasks into version-controlled, testable, and repeatable automation.
