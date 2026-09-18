@@ -21,20 +21,20 @@ Can monitoring tell me when it fails?
 ```
 
 
-## 🧭 Currently Working On
+## 🧭 DevOps Toolkit
 
 | Area | Tools & Concepts |
 |---|---|
 | ☁️ Cloud | **AWS**, **Azure** |
 | 🏗️ IaC & Configuration | **Terraform**, Ansible, CloudFormation |
 | 🔄 CI/CD | Azure DevOps, Jenkins, **GitHub Actions**, GitLab |
-| 📦 Containers | **Docker**, Kubernetes / EKS |
+| 📦 Containers | **Docker**, Kubernetes, EKS |
 | 🌐 Networking | DNS, TCP/IP, VNet/VPC, VPN, Load Balancers |
 | 📊 Monitoring | Prometheus, Grafana, ELK |
 | 🔐 Security & Identity | IAM, Microsoft Entra, Azure Key Vault |
 | 🔧 Version Control | **Git**, **GitHub** |
-| 🐍 Programming | **Python**, **Shell Scripting**, **YAML** |
-| 🛡️ DevSecOps | SonarQube, CodeQL, Trivy, Anchore, OWASP ZAP
+| 🐍 Scripting & Automation | **Python**, **Shell Scripting**, **YAML** |
+| 🛡️ DevSecOps | SonarQube, CodeQL, Trivy, Anchore, OWASP
 
 
 
