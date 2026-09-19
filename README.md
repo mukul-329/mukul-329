@@ -2,9 +2,7 @@
 
 
 ### ⚡ Build. Automate. Learn. Repeat.
-
 I build and automate cloud infrastructure and CI/CD pipelines, transforming manual engineering tasks into version-controlled, testable, and repeatable automation.
-
 ### ⚡ Write it once. Automate it. Version it. Repeat it.
 ```text
 Can this be automated?
@@ -19,8 +17,6 @@ Can CI/CD execute it?
           ↓
 Can monitoring tell me when it fails?
 ```
-
-
 ## 🧭 DevOps Toolkit
 
 | Area | Tools & Concepts |
