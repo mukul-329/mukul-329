@@ -36,12 +36,6 @@ Can monitoring tell me when it fails?
 
 ## 🚀 Projects
 
-| Name | Architecture | Application | Stack | DevOps Integrations | Cloud | Status | Repository |
-|---|---|---|---|---|---|---|---|
-| [**WebBlog**](https://github.com/mukul-329/WebBlog) | 3-Tier | Microservices | React, Node.js, Express, MongoDB  | Docker · K8s · GitHub Actions · Terraform | AWS | 🟢 Active | [Repo](#) |
-| [**Project 2**]() | 2-Tier | Monolith | React · Node.js · MySQL | Docker · GitHub Actions | AWS | 🔵 Completed | [Repo](#) |
-| [**Project 3**]() | 3-Tier | Microservices | Java · Spring · PostgreSQL | Docker · K8s · Terraform | Azure | 🟡 In Progress | [Repo](#) |
-
 ### 1. 📝 Web Blog Application
 
 A simple yet powerful web blogging platform.
