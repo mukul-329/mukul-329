@@ -36,6 +36,12 @@ Can monitoring tell me when it fails?
 
 ## 🚀 Projects
 
+| Name | Architecture | Stack | Security | CI/CD |  | Cloud | Status |
+|---|---|---|---|---|---|---|---|
+| [**WebBlog**](https://github.com/mukul-329/WebBlog) | 3-Tier Microservices | React, Node.js, Express, MongoDB |   | Github Actions |  | AWS | 🟢 Active |
+| [**Project 2**]() | 2-Tier Monolith | React · Node.js · MySQL |  | Jenkins |  | AWS | 🔵 Completed |
+| [**Project 3**]() | 3-Tier Microservices | Java · Spring · PostgreSQL |  | GitLab |  | Azure | 🟡 In Progress |
+
 ### 1. 📝 Web Blog Application
 
 A simple yet powerful web blogging platform.
@@ -200,6 +206,9 @@ Terraform Module
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📊 GitHub Stats:
+![](https://streak-stats.demolab.com/?user=mukul-329&theme=dark&hide_border=false)<br/>
 
 
 ## 🌐 Connect With Me
