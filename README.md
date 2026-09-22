@@ -87,7 +87,7 @@ Can monitoring tell me when it fails?
 <table>
 <tr>
 <!-- Microsoft -->
-<td align="center" width="50%">
+<td align="center" width="60%">
 
 <p align="center">
 <img src="https://img.shields.io/badge/Microsoft-Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
@@ -102,7 +102,7 @@ Can monitoring tell me when it fails?
 </td>
 
 <!-- HashiCorp -->
-<td align="center" width="50%">
+<td align="center" width="60%">
 
 <p align="center">
 <img src="https://img.shields.io/badge/HashiCorp-Certified-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
@@ -119,7 +119,7 @@ Can monitoring tell me when it fails?
 
 <tr>
 <!-- Python -->
-<td align="center" width="50%">
+<td align="center" width="60%">
 
 <p align="center">
         <img src="https://img.shields.io/badge/Python-Institute-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -135,7 +135,7 @@ Can monitoring tell me when it fails?
 </td>
 
 <!-- GitHub -->
-<td align="center" width="50%">
+<td align="center" width="60%">
 
 <p align="center">
 <img src="https://img.shields.io/badge/GitHub-Certified-181717?style=for-the-badge&logo=github&logoColor=white">
