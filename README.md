@@ -1,4 +1,11 @@
-# 👋 Hi, I'm Mukul Sengar
+<h1>
+  👋 Hi, I'm Mukul Sengar
+  <img
+    align="right"
+    src="https://img.shields.io/badge/Continuous%20Learning-Building%20a%20Better%20Tomorrow-6C757D?style=flat&labelColor=F3F4F6&color=6C757D"
+    alt="Continuous Learning • Building a Better Tomorrow"
+  >
+</h1>
 
 <p align="center">
   <img src="./assets/mindset.webp"
@@ -78,37 +85,46 @@ Can monitoring tell me when it fails?
        └──────────────────────┘
 ```
 
-## 🏆 Certifications
+<h2>
+  🏆 Certifications
+</h2>
 
-<p align="center">
-<i>Continuous Learning • Building a Better Tomorrow</i>
+<p align="left">
+  <i>🚀 Learn · Build · Automate · Improve</i>
 </p>
 
-<table style="table-layout: fixed; width: 100%;">
+<table width="100%" style="table-layout: fixed;">
+<colgroup>
+<col width="50%">
+<col width="50%">
+</colgroup>
+
 <tr>
 <!-- Microsoft -->
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-<p align="center">
-<img src="https://img.shields.io/badge/Microsoft-Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
+  <p>
+  <img src="https://img.shields.io/badge/Microsoft-Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
+  </p>
+
+<p>
+  <img src="./assets/certifications/az-900.png" width="90">
+  <img src="./assets/certifications/az-104.png" width="90">
+  <img src="./assets/certifications/az-700.png" width="90">
+  <img src="./assets/certifications/az-400.png" width="90">
 </p>
-<p align="center">
-<img src="./assets/certifications/az-900.png" width="85">
-<img src="./assets/certifications/az-104.png" width="85">
-<img src="./assets/certifications/az-700.png" width="85">
-<img src="./assets/certifications/az-400.png" width="85">
-</p>
-<b>AZ-900</b> · <b>AZ-104</b> · <b>AZ-700</b> · <b>AZ-400</b>
+
+<b>AZ-900 · AZ-104 · AZ-700 · AZ-400</b>
 </td>
 
 <!-- HashiCorp -->
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/HashiCorp-Certified-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
 </p>
 
-<p align="center">
+<p>
 <img src="./assets/certifications/terraform-associate.png" width="150">
 </p>
 
@@ -119,29 +135,29 @@ Can monitoring tell me when it fails?
 
 <tr>
 <!-- Python -->
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-<p align="center">
-        <img src="https://img.shields.io/badge/Python-Institute-3776AB?style=for-the-badge&logo=python&logoColor=white">
-      </p>
+<p>
+<img src="https://img.shields.io/badge/Python-Institute-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
 
-<p align="center">
+<p>
 <img src="./assets/certifications/pcap.png" width="125">
 <img src="./assets/certifications/pcep.png" width="125">
 </p>
 
-<b>PCAP</b> · <b>PCEP</b>
+<b>PCAP · PCEP</b>
 
 </td>
 
 <!-- GitHub -->
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/GitHub-Certified-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-<p align="center">
+<p>
 <img src="./assets/certifications/github-foundations.png" width="150">
 </p>
 
@@ -150,10 +166,6 @@ Can monitoring tell me when it fails?
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <i>🚀 Learn · Build · Automate · Improve</i>
-</p>
 
 
 ## 🛠️ Tech Stack
