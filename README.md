@@ -12,7 +12,6 @@
        alt="DevOps Automation Mindset"
        width="800">
 </p>
-<br>
 
 ## 🧭 DevOps Toolkit
 
@@ -28,7 +27,6 @@
 | 🔧 Version Control | **Git**, **GitHub** | ▰▰▰▰▰▰▰▰▰▱ |
 | 🐍 Scripting & Automation | **Python**, **Shell Scripting**, **YAML** | ▰▰▰▰▰▰▰▱▱▱ |
 | 🛡️ DevSecOps | SonarQube, CodeQL, Trivy, Anchore, OWASP | ▰▰▰▰▰▰▰▱▱▱ |
-<br>
 
 
 ## 🚀 Projects
@@ -38,8 +36,6 @@
 | [**WebBlog**](https://github.com/mukul-329/WebBlog) | 3-Tier | React · Node.js · MongoDB | SonarQube, Trivy  | Github Actions | Not Implemented | AWS EC2 | 🟡 In Progress |
 | [**OneApps**](https://github.com/mukul-329/OneApps) | 3-Tier | React · Node.js · MySQL | SonarQube, Trivy | Jenkins | Not Implemented | AWS EC2 | 🟡 In Progress |
 | [**Terraform Modules**]() | 3-Tier | Java · Spring · PostgreSQL | Trivy | GitLab | Terraform | Azure | 🟡 In Progress |
-
-<br>
 
 ## 🗺️ DevOps Roadmap
 
@@ -132,7 +128,6 @@
     >  
    </a>
 </p>
-<br>
 
 ## Certifications
 
@@ -146,10 +141,8 @@
   <img src="./assets/certifications/terraform-associate.png" width="90">
   <img src="./assets/certifications/az-900.png" width="90">
 </p>
-<br>
 
 ## 🛠️ Tech Stack
-
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -167,11 +160,8 @@
 ![](https://streak-stats.demolab.com/?user=mukul-329&theme=dark&hide_border=false)<br/>
 
 ## 🌐 Connect With Me
-
 [![RESUME](https://img.shields.io/badge/RESUME-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mukul-329.github.io)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/mukul-329)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukulsengar/)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukulsengar329@gmail.com)
 [![AWS Builder Community](https://img.shields.io/badge/AWS%20BUILDER%20COMMUNITY-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://builder.aws.com/community/@withmukul)
-
-
