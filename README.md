@@ -41,11 +41,11 @@ Can monitoring tell me when it fails?
 
 ## 🚀 Projects
 
-| Name | Architecture | Stack | Security | CI/CD |  | Cloud | Status |
-|---|---|---|---|---|---|---|---|
-| [**WebBlog**](https://github.com/mukul-329/WebBlog) | 3-Tier | React · Node.js · MongoDB |   | Github Actions |  | AWS | 🟡 In Progress |
-| [**OneApps**](https://github.com/mukul-329/OneApps) | 3-Tier | React · Node.js · MySQL |  | Jenkins |  | AWS | 🟡 In Progress |
-| [**Terraform Modules**]() | 3-Tier | Java · Spring · PostgreSQL |  | GitLab |  | Azure | 🟡 In Progress |
+| Name | Architecture | Stack | Security | CI/CD | IaC | Deployment | InfraStructure | Status |
+|---|---|---|---|---|---|---|---|---| 
+| [**WebBlog**](https://github.com/mukul-329/WebBlog) | 3-Tier | React · Node.js · MongoDB | SonarQube, Trivy  | Github Actions | NotImplemented | EC2 | AWS | 🟡 In Progress |
+| [**OneApps**](https://github.com/mukul-329/OneApps) | 3-Tier | React · Node.js · MySQL | SonarQube, Trivy | Jenkins | NotImplemented | EC2 | AWS | 🟡 In Progress |
+| [**Terraform Modules**]() | 3-Tier | Java · Spring · PostgreSQL | Trivy | GitLab | Terraform | EC2 | Azure | 🟡 In Progress |
 
 
 
