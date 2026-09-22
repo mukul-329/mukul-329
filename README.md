@@ -12,23 +12,8 @@
        alt="DevOps Automation Mindset"
        width="800">
 </p>
+<br>
 
-<!-- ### ⚡ Build. Automate. Learn. Repeat.
-I build and automate cloud infrastructure and CI/CD pipelines, transforming manual engineering tasks into version-controlled, testable, and repeatable automation.
-### ⚡ Write it once. Automate it. Version it. Repeat it.
-```text
-Can this be automated?
-          ↓
-Can it be version controlled?
-          ↓
-Can it be made repeatable?
-          ↓
-Can it be tested safely?
-          ↓
-Can CI/CD execute it?
-          ↓
-Can monitoring tell me when it fails?
-``` -->
 ## 🧭 DevOps Toolkit
 
 | Area | Tools & Concepts | Proficiency |
@@ -43,7 +28,7 @@ Can monitoring tell me when it fails?
 | 🔧 Version Control | **Git**, **GitHub** | ▰▰▰▰▰▰▰▰▰▱ |
 | 🐍 Scripting & Automation | **Python**, **Shell Scripting**, **YAML** | ▰▰▰▰▰▰▰▱▱▱ |
 | 🛡️ DevSecOps | SonarQube, CodeQL, Trivy, Anchore, OWASP | ▰▰▰▰▰▰▰▱▱▱ |
-
+<br>
 
 
 ## 🚀 Projects
@@ -54,6 +39,7 @@ Can monitoring tell me when it fails?
 | [**OneApps**](https://github.com/mukul-329/OneApps) | 3-Tier | React · Node.js · MySQL | SonarQube, Trivy | Jenkins | Not Implemented | AWS EC2 | 🟡 In Progress |
 | [**Terraform Modules**]() | 3-Tier | Java · Spring · PostgreSQL | Trivy | GitLab | Terraform | Azure | 🟡 In Progress |
 
+<br>
 
 ## 🗺️ DevOps Roadmap
 
@@ -146,88 +132,7 @@ Can monitoring tell me when it fails?
     >  
    </a>
 </p>
-
-<h2>
-  🏆 Certifications
-</h2>
-
-<p align="left">
-  <i>🚀 Learn · Build · Automate · Improve</i>
-</p>
-
-<table width="100%" style="table-layout: fixed;">
-<colgroup>
-<col width="50%">
-<col width="50%">
-</colgroup>
-
-<tr>
-<!-- Microsoft -->
-<td width="65%" align="center">
-
-  <p>
-  <img src="https://img.shields.io/badge/Microsoft-Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
-  </p>
-
-<p>
-  <img src="./assets/certifications/az-900.png" width="90">
-  <img src="./assets/certifications/az-104.png" width="90">
-  <img src="./assets/certifications/az-700.png" width="90">
-  <img src="./assets/certifications/az-400.png" width="90">
-</p>
-
-<b>AZ-900 · AZ-104 · AZ-700 · AZ-400</b>
-</td>
-
-<!-- HashiCorp -->
-<td width="25%" align="center">
-
-<p>
-<img src="https://img.shields.io/badge/HashiCorp-Certified-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
-</p>
-
-<p>
-<img src="./assets/certifications/terraform-associate.png" width="125">
-</p>
-
-<b>Terraform Associate 003</b>
-
-</td>
-</tr>
-
-<tr>
-<!-- Python -->
-<td width="50%" align="center">
-
-<p>
-<img src="https://img.shields.io/badge/Python-Institute-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</p>
-
-<p>
-<img src="./assets/certifications/pcap.png" width="125">
-<img src="./assets/certifications/pcep.png" width="125">
-</p>
-
-<b>PCAP · PCEP</b>
-
-</td>
-
-<!-- GitHub -->
-<td width="50%" align="center">
-
-<p>
-<img src="https://img.shields.io/badge/GitHub-Certified-181717?style=for-the-badge&logo=github&logoColor=white">
-</p>
-
-<p>
-<img src="./assets/certifications/github-foundations.png" width="135">
-</p>
-
-<b>GitHub Foundations</b>
-
-</td>
-</tr>
-</table>
+<br>
 
 ## Certifications
 
@@ -241,7 +146,7 @@ Can monitoring tell me when it fails?
   <img src="./assets/certifications/terraform-associate.png" width="90">
   <img src="./assets/certifications/az-900.png" width="90">
 </p>
-
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -256,6 +161,7 @@ Can monitoring tell me when it fails?
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br>
 
 ## 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=mukul-329&theme=dark&hide_border=false)<br/>
