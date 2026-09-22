@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Mukul Sengar 
 
-## 🧠 My Automation Mindset
-
+## 🧠 DevOps Engineer
 ![DevOps Automation Mindset](/assests/auto.jpg)
 
-### ⚡ Build. Automate. Learn. Repeat.
+<!-- ### ⚡ Build. Automate. Learn. Repeat.
 I build and automate cloud infrastructure and CI/CD pipelines, transforming manual engineering tasks into version-controlled, testable, and repeatable automation.
 ### ⚡ Write it once. Automate it. Version it. Repeat it.
 ```text
@@ -19,7 +18,7 @@ Can it be tested safely?
 Can CI/CD execute it?
           ↓
 Can monitoring tell me when it fails?
-```
+``` -->
 ## 🧭 DevOps Toolkit
 
 | Area | Tools & Concepts |
