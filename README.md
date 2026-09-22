@@ -125,7 +125,7 @@ Can monitoring tell me when it fails?
 </p>
 
 <p>
-<img src="./assets/certifications/terraform-associate.png" width="150">
+<img src="./assets/certifications/terraform-associate.png" width="125">
 </p>
 
 <b>Terraform Associate 003</b>
@@ -158,7 +158,7 @@ Can monitoring tell me when it fails?
 </p>
 
 <p>
-<img src="./assets/certifications/github-foundations.png" width="150">
+<img src="./assets/certifications/github-foundations.png" width="125">
 </p>
 
 <b>GitHub Foundations</b>
