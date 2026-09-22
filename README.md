@@ -55,35 +55,43 @@ Can monitoring tell me when it fails?
 | [**Terraform Modules**]() | 3-Tier | Java · Spring · PostgreSQL | Trivy | GitLab | Terraform | Azure | 🟡 In Progress |
 
 
+## 🗺️ DevOps Roadmap
 
-## 🧠 DevOps Concepts
+<p align="center">
+  <i>
+    A practical learning journey from fundamentals to real-world DevOps —
+    covering concepts, hands-on practice, projects, documentation,
+    and a structured 90-day learning path.
+  </i>
+</p>
 
-```text
-       ┌──────────────────────┐
-       │      Git / GitHub     │
-       └──────────┬───────────┘
-                  ↓
-       ┌──────────────────────┐
-       │        CI / CD       │
-       └──────────┬───────────┘
-                  ↓
-       ┌──────────────────────┐
-       │ Infrastructure as    │
-       │       Code           │
-       └──────────┬───────────┘
-                  ↓
-       ┌──────────────────────┐
-       │ Cloud Infrastructure │
-       └──────────┬───────────┘
-                  ↓
-       ┌──────────────────────┐
-       │  Containers / Apps   │
-       └──────────┬───────────┘
-                  ↓
-       ┌──────────────────────┐
-       │    Monitoring & Ops  │
-       └──────────────────────┘
-```
+<p align="center">
+  <a href="https://github.com/mukul-329/DevOpswithMukul">
+    <img
+      src="https://img.shields.io/badge/📚%20Explore%20DevOpsWithMukul-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explore DevOpsWithMukul"
+    >
+  </a>
+
+  <a href="https://github.com/mukul-329/DevOpswithMukul/tree/main/DevOps%4090Days">
+    <img
+      src="https://img.shields.io/badge/📅%2090%20Days-Structured%20Learning-0A66C2?style=for-the-badge"
+      alt="DevOps in 90 Days"
+    >
+  </a>
+
+  <a href="https://github.com/mukul-329/DevOpswithMukul/tree/main/Projects">
+    <img
+      src="https://img.shields.io/badge/🚀%20Projects-Hands--On%20Practice-16A34A?style=for-the-badge"
+      alt="DevOps Projects"
+    >
+  </a>
+</p>
+
+<p align="center">
+  <b>Learn → Practice → Build → Document → Improve</b>
+</p>  
+
 
 <h2>
   🏆 Certifications
