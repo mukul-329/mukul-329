@@ -1,6 +1,5 @@
-# 👋 Hi, I'm Mukul Sengar 
+# 👋 Hi, I'm Mukul Sengar
 
-## 🧠 DevOps Engineer
 <p align="center">
   <img src="./assests/mindset.webp"
        alt="DevOps Automation Mindset"
