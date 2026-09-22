@@ -229,6 +229,19 @@ Can monitoring tell me when it fails?
 </tr>
 </table>
 
+## Certifications
+
+<p>
+  <img src="./assets/certifications/pcap.png" width="90">
+  <img src="./assets/certifications/az-104.png" width="90">
+  <img src="./assets/certifications/az-700.png" width="90">
+  <img src="./assets/certifications/github-foundations.png" width="90">
+  <img src="./assets/certifications/az-400.png" width="90">
+  <img src="./assets/certifications/pcep.png" width="90">
+  <img src="./assets/certifications/terraform-associate.png" width="90">
+  <img src="./assets/certifications/az-900.png" width="90">
+</p>
+
 
 ## 🛠️ Tech Stack
 
