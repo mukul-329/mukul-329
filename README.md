@@ -66,6 +66,10 @@ Can monitoring tell me when it fails?
 </p>
 
 <p align="center">
+  <b>Learn → Practice → Build → Document → Improve</b>
+</p>
+
+<p align="center">
   <a href="https://github.com/mukul-329/DevOpswithMukul">
     <img
       src="https://img.shields.io/badge/📚%20Explore%20DevOpsWithMukul-181717?style=for-the-badge&logo=github&logoColor=white"
@@ -86,12 +90,62 @@ Can monitoring tell me when it fails?
       alt="DevOps Projects"
     >
   </a>
+  <br>
+  <a href="https://github.com/mukul-329/DevOpswithMukul/tree/main/Linux">
+    <img
+      src="https://img.shields.io/badge/Linux-16A34A?style=for-the-badge"
+      alt="Linux"
+    >
+  </a>
+  <a href="https://github.com/mukul-329/DevOpswithMukul/tree/main/Shell Script">
+    <img
+      src="https://img.shields.io/badge/Shell%20Scripting-16A34A?style=for-the-badge"
+      alt="Shell Scripting"
+    >
+  </a>
+  <a href="https://github.com/mukul-329/DevOpswithMukul/tree/main/Git">
+    <img
+      src="https://img.shields.io/badge/Git-16A34A?style=for-the-badge"
+      alt="Git"
+    >
+  </a>
+  <a href="https://github.com/mukul-329/DevOpswithMukul/tree/main/Docker">
+    <img
+      src="https://img.shields.io/badge/Docker-16A34A?style=for-the-badge"
+      alt="Docker"
+    >
+   </a> 
+    <a href="https://github.com/mukul-329/DevOpswithMukul/tree/main/CI-CD">
+    <img
+      src="https://img.shields.io/badge/CI%20CD-16A34A?style=for-the-badge"
+      alt="CI/CD"
+    >
+    </a>  
+    <a href="https://github.com/mukul-329/DevOpswithMukul/tree/main/Kubernetes">
+    <img
+      src="https://img.shields.io/badge/Kubernetes-16A34A?style=for-the-badge"
+      alt="Kubernetes"
+    >
+    </a>   
+    <a href="https://github.com/mukul-329/DevOpswithMukul/tree/main/Terraform">
+    <img
+      src="https://img.shields.io/badge/Terraform-16A34A?style=for-the-badge"
+      alt="Terraform"
+    > 
+    </a>   
+   <a href="https://github.com/mukul-329/DevOpswithMukul/tree/main/Ansible">
+    <img
+      src="https://img.shields.io/badge/Ansible-16A34A?style=for-the-badge"
+      alt="Ansible"
+    >  
+   </a>
+   <a href="https://github.com/mukul-329/DevOpswithMukul/tree/main/Python">
+    <img
+      src="https://img.shields.io/badge/Python-16A34A?style=for-the-badge"
+      alt="Python"
+    >  
+   </a>
 </p>
-
-<p align="center">
-  <b>Learn → Practice → Build → Document → Improve</b>
-</p>  
-
 
 <h2>
   🏆 Certifications
