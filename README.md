@@ -24,9 +24,9 @@ Can monitoring tell me when it fails?
 ``` -->
 ## 🧭 DevOps Toolkit
 
-| Area | Tools & Concepts |
-|---|---|
-| ☁️ Cloud | **AWS**, **Azure** |
+| Area | Tools & Concepts | Proficiency |
+|---|---|---|
+| ☁️ Cloud | **AWS**, **Azure** | ▰▰▰▰▰▰▰▰▱▱ 8/10 |
 | 🏗️ IaC & Configuration | **Terraform**, Ansible, CloudFormation |
 | 🔄 CI/CD | Azure DevOps, Jenkins, **GitHub Actions**, GitLab |
 | 📦 Containers | **Docker**, Kubernetes, EKS |
