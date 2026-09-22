@@ -102,7 +102,6 @@ Can monitoring tell me when it fails?
 ## 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=mukul-329&theme=dark&hide_border=false)<br/>
 
-
 ## 🌐 Connect With Me
 
 [![RESUME](https://img.shields.io/badge/RESUME-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mukul-329.github.io)
