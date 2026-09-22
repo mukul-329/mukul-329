@@ -187,7 +187,7 @@ Can monitoring tell me when it fails?
 </p>
 
 <p>
-<img src="./assets/certifications/terraform-associate.png" width="135">
+<img src="./assets/certifications/terraform-associate.png" width="140">
 </p>
 
 <b>Terraform Associate 003</b>
