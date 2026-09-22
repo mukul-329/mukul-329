@@ -1,7 +1,11 @@
 # 👋 Hi, I'm Mukul Sengar 
 
 ## 🧠 DevOps Engineer
-![DevOps Automation Mindset](/assests/auto.jpg)
+<p align="center">
+  <img src="./assests/mindset.webp"
+       alt="DevOps Automation Mindset"
+       width="800">
+</p>
 
 <!-- ### ⚡ Build. Automate. Learn. Repeat.
 I build and automate cloud infrastructure and CI/CD pipelines, transforming manual engineering tasks into version-controlled, testable, and repeatable automation.
