@@ -201,6 +201,8 @@ Terraform Module
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 📊 GitHub Stats:
+![](https://streak-stats.demolab.com/?user=mukul-329&theme=dark&hide_border=false)<br/>
 
 ## 🌐 Connect With Me
 
