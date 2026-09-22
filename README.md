@@ -163,7 +163,7 @@ Can monitoring tell me when it fails?
 
 <tr>
 <!-- Microsoft -->
-<td width="50%" align="center">
+<td width="65%" align="center">
 
   <p>
   <img src="https://img.shields.io/badge/Microsoft-Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
@@ -180,14 +180,14 @@ Can monitoring tell me when it fails?
 </td>
 
 <!-- HashiCorp -->
-<td width="50%" align="center">
+<td width="25%" align="center">
 
 <p>
 <img src="https://img.shields.io/badge/HashiCorp-Certified-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
 </p>
 
 <p>
-<img src="./assets/certifications/terraform-associate.png" width="140">
+<img src="./assets/certifications/terraform-associate.png" width="125">
 </p>
 
 <b>Terraform Associate 003</b>
