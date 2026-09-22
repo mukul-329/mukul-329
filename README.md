@@ -93,10 +93,10 @@ Can monitoring tell me when it fails?
 <img src="https://img.shields.io/badge/Microsoft-Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
 </p>
 <p align="center">
-<img src="./assets/certifications/az-900.png" width="90">
-<img src="./assets/certifications/az-104.png" width="90">
-<img src="./assets/certifications/az-700.png" width="90">
-<img src="./assets/certifications/az-400.png" width="90">
+<img src="./assets/certifications/az-900.png" width="85">
+<img src="./assets/certifications/az-104.png" width="85">
+<img src="./assets/certifications/az-700.png" width="85">
+<img src="./assets/certifications/az-400.png" width="85">
 </p>
 <b>AZ-900</b> · <b>AZ-104</b> · <b>AZ-700</b> · <b>AZ-400</b>
 </td>
@@ -126,8 +126,8 @@ Can monitoring tell me when it fails?
       </p>
 
 <p align="center">
-<img src="./assets/certifications/pcap.png" width="140">
-<img src="./assets/certifications/pcep.png" width="140">
+<img src="./assets/certifications/pcap.png" width="125">
+<img src="./assets/certifications/pcep.png" width="125">
 </p>
 
 <b>PCAP</b> · <b>PCEP</b>
