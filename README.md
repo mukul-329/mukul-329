@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mukul Sengar
 
 <p align="center">
-  <img src="./assests/mindset.webp"
+  <img src="./assets/mindset.webp"
        alt="DevOps Automation Mindset"
        width="800">
 </p>
