@@ -78,16 +78,82 @@ Can monitoring tell me when it fails?
        └──────────────────────┘
 ```
 
-
-
 ## 🏆 Certifications
 
-| Certification | Area |
-|---|---|
-| **Azure DevOps Engineer (AZ-400)** | DevOps & CI/CD |
-| **HashiCorp Certified: Terraform Associate 003** | Terraform, IaC |
-| **Python Certified Associate Programmer** | Python Programming |
-| **Microsoft Certified: AZ-900, AZ-104, AZ-700** | Azure Cloud & Networking |
+<p align="center">
+<i>Continuous Learning • Building a Better Tomorrow</i>
+</p>
+
+<table>
+<tr>
+<!-- Microsoft -->
+<td align="center" width="50%">
+
+<p align="center">
+<img src="https://img.shields.io/badge/Microsoft-Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
+</p>
+<p align="center">
+<img src="./assets/certifications/az-900.png" width="90">
+<img src="./assets/certifications/az-104.png" width="90">
+<img src="./assets/certifications/az-700.png" width="90">
+<img src="./assets/certifications/az-400.png" width="90">
+</p>
+<b>AZ-900</b> · <b>AZ-104</b> · <b>AZ-700</b> · <b>AZ-400</b>
+</td>
+
+<!-- HashiCorp -->
+<td align="center" width="50%">
+
+<p align="center">
+<img src="https://img.shields.io/badge/HashiCorp-Certified-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
+</p>
+
+<p align="center">
+<img src="./assets/certifications/terraform-associate.png" width="150">
+</p>
+
+<b>Terraform Associate 003</b>
+
+</td>
+</tr>
+
+<tr>
+<!-- Python -->
+<td align="center" width="50%">
+
+<p align="center">
+        <img src="https://img.shields.io/badge/Python-Institute-3776AB?style=for-the-badge&logo=python&logoColor=white">
+      </p>
+
+<p align="center">
+<img src="./assets/certifications/pcap.png" width="140">
+<img src="./assets/certifications/pcep.png" width="140">
+</p>
+
+<b>PCAP</b> · <b>PCEP</b>
+
+</td>
+
+<!-- GitHub -->
+<td align="center" width="50%">
+
+<p align="center">
+<img src="https://img.shields.io/badge/GitHub-Certified-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+<p align="center">
+<img src="./assets/certifications/github-foundations.png" width="150">
+</p>
+
+<b>GitHub Foundations</b>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <i>🚀 Learn · Build · Automate · Improve</i>
+</p>
 
 
 ## 🛠️ Tech Stack
