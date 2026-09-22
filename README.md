@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Mukul Sengar 
 
+## 🧠 My Automation Mindset
+
+![DevOps Automation Mindset](/assests/auto.jpg)
 
 ### ⚡ Build. Automate. Learn. Repeat.
 I build and automate cloud infrastructure and CI/CD pipelines, transforming manual engineering tasks into version-controlled, testable, and repeatable automation.
