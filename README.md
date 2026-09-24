@@ -23,29 +23,21 @@
 ## 🧭 DevOps Toolkit
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws" width="70">
-  <img src="https://skillicons.dev/icons?i=azure" width="70">
   <img src="https://skillicons.dev/icons?i=python" width="70">
-  <img src="https://skillicons.dev/icons?i=terraform" width="70">
-  <img src="https://skillicons.dev/icons?i=ansible" width="70">
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="70">
+  <img src="https://skillicons.dev/icons?i=linux" width="70">
+  <img src="https://skillicons.dev/icons?i=docker" width="70">
+  <img src="https://skillicons.dev/icons?i=githubactions" width="70">
   <img src="https://skillicons.dev/icons?i=gitlab" width="70">
   <img src="https://skillicons.dev/icons?i=jenkins" width="70">
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="70">
+  <img src="https://skillicons.dev/icons?i=azure" width="70">
+  <img src="https://skillicons.dev/icons?i=aws" width="70">
+  <img src="https://skillicons.dev/icons?i=terraform" width="70">
+  <img src="https://skillicons.dev/icons?i=ansible" width="70">
+  <img src="https://skillicons.dev/icons?i=prometheus" width="70">
+  <img src="https://skillicons.dev/icons?i=grafana" width="70">
+  
 </p>
-
-| Area | Tools & Concepts | Proficiency |
-|---|---|---|
-| ☁️ Cloud | **AWS**, **Azure** | ▰▰▰▰▰▰▰▰▱▱ |
-| 🏗️ IaC & Configuration | **Terraform**, Ansible, CloudFormation | ▰▰▰▰▰▰▰▱▱▱ |
-| 🔄 CI/CD | Azure DevOps, Jenkins, **GitHub Actions**, GitLab | ▰▰▰▰▰▰▰▰▱▱ |
-| 📦 Containers | **Docker**, Kubernetes, EKS | ▰▰▰▰▰▰▰▰▱▱ |
-| 🌐 Networking | DNS, TCP/IP, VNet/VPC, VPN, Load Balancers | ▰▰▰▰▰▰▰▰▰▱ |
-| 📊 Monitoring | Prometheus, Grafana, ELK | ▰▰▰▰▰▰▱▱▱▱ |
-| 🔐 Security & Identity | IAM, Microsoft Entra, Azure Key Vault | ▰▰▰▰▰▰▱▱▱▱ |
-| 🔧 Version Control | **Git**, **GitHub** | ▰▰▰▰▰▰▰▰▰▱ |
-| 🐍 Scripting & Automation | **Python**, **Shell Scripting**, **YAML** | ▰▰▰▰▰▰▰▱▱▱ |
-| 🛡️ DevSecOps | SonarQube, CodeQL, Trivy, Anchore, OWASP | ▰▰▰▰▰▰▰▱▱▱ |
-
 
 ## 🚀 Projects
 
