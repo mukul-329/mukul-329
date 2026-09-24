@@ -144,12 +144,12 @@
 <p>
   <a href="https://www.credly.com/badges/bdb67862-6727-4def-a439-b8b0180f7f4e/public_url"><img src="./assets/certifications/pcap.png" width="90"></a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/MukulAnandSengar-0028/72A00F571546A8E1?sharingId=A8DE60E1EFBCC4B9"><img src="./assets/certifications/az-104.png" width="90"></a>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/MukulAnandSengar-0028/9E472D7E7607C998?sharingId=A8DE60E1EFBCC4B9"<img src="./assets/certifications/az-700.png" width="90"></a>
   <a href="https://www.credly.com/badges/1f034e5e-6514-4172-a9b3-78beed881dee/public_url"><img src="./assets/certifications/github-foundations.png" width="90"></a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/MukulAnandSengar-0028/9FE26D361A927068?sharingId=A8DE60E1EFBCC4B9"><img src="./assets/certifications/az-400.png" width="90"></a>
   <a href="https://www.credly.com/badges/1c7859cd-32bc-4b85-9747-2b35f3524d0c/public_url"><img src="./assets/certifications/pcep.png" width="90"></a>
   <a href="https://www.credly.com/badges/84cb1cb0-a144-4b68-92f7-86702e1be7c8/public_url"><img src="./assets/certifications/terraform-associate.png" width="90"></a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/MukulAnandSengar-0028/F9140C369CEFB384?sharingId=A8DE60E1EFBCC4B9"><img src="./assets/certifications/az-900.png" width="90"></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/MukulAnandSengar-0028/9E472D7E7607C998?sharingId=A8DE60E1EFBCC4B9"><img src="./assets/certifications/az-700.png" width="80"></a>
 </p>
 
 ## 📊 GitHub Stats:
