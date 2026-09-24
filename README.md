@@ -32,8 +32,8 @@
   <img src="https://skillicons.dev/icons?i=kubernetes" width="70">
   <img src="https://skillicons.dev/icons?i=azure" width="70">
   <img src="https://skillicons.dev/icons?i=aws" width="70">
-  <img src="https://skillicons.dev/icons?i=terraform" width="70">
-  <img src="https://skillicons.dev/icons?i=ansible" width="70">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="70">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="70">
   <img src="https://skillicons.dev/icons?i=prometheus" width="70">
   <img src="https://skillicons.dev/icons?i=grafana" width="70">
   
