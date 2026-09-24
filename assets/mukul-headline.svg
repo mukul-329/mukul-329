@@ -1,37 +1,61 @@
 <svg
-  width="900"
-  height="90"
-  viewBox="0 0 900 90"
+  width="100%"
+  viewBox="0 0 1000 120"
   xmlns="http://www.w3.org/2000/svg"
 >
 
-  <!-- Waving hand only -->
-  <text
-    x="10"
-    y="62"
-    font-family="Arial, sans-serif"
-    font-size="42"
-  >
-    👋
-    <animateTransform
-      attributeName="transform"
-      type="rotate"
-      values="-8 30 50; 8 30 50; -8 30 50"
-      dur="1s"
-      repeatCount="indefinite"
-    />
-  </text>
+  <!-- ========================================== -->
+  <!-- CENTERED HEADLINE GROUP -->
+  <!-- ========================================== -->
 
-  <!-- Static headline -->
-  <text
-    x="65"
-    y="62"
-    font-family="Arial, Helvetica, sans-serif"
-    font-size="42"
-    font-weight="600"
-    fill="#172235"
-  >
-    Hi, I'm Mukul Sengar
-  </text>
+  <g transform="translate(185, 0)">
+
+    <!-- Waving hand -->
+    <text
+      x="0"
+      y="62"
+      font-family="Arial, sans-serif"
+      font-size="42"
+    >
+      👋
+
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        values="-8 20 50; 8 20 50; -8 20 50"
+        dur="1s"
+        repeatCount="indefinite"
+      />
+
+    </text>
+
+
+    <!-- Text starts AFTER hand -->
+    <text
+      x="58"
+      y="62"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="42"
+      font-weight="600"
+      fill="#172235"
+    >
+      Hi, I'm Mukul Sengar
+    </text>
+
+  </g>
+
+
+  <!-- ========================================== -->
+  <!-- FULL UNDERLINE -->
+  <!-- ========================================== -->
+
+  <line
+    x1="50"
+    y1="88"
+    x2="950"
+    y2="88"
+    stroke="#d8dee8"
+    stroke-width="2"
+  />
 
 </svg>
