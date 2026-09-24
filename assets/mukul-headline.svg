@@ -1,0 +1,37 @@
+<svg
+  width="900"
+  height="90"
+  viewBox="0 0 900 90"
+  xmlns="http://www.w3.org/2000/svg"
+>
+
+  <!-- Waving hand only -->
+  <text
+    x="10"
+    y="62"
+    font-family="Arial, sans-serif"
+    font-size="42"
+  >
+    👋
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      values="-8 30 50; 8 30 50; -8 30 50"
+      dur="1s"
+      repeatCount="indefinite"
+    />
+  </text>
+
+  <!-- Static headline -->
+  <text
+    x="65"
+    y="62"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="42"
+    font-weight="600"
+    fill="#172235"
+  >
+    Hi, I'm Mukul Sengar
+  </text>
+
+</svg>
