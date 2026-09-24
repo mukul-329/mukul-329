@@ -22,6 +22,17 @@
 
 ## 🧭 DevOps Toolkit
 
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" width="70">
+  <img src="https://skillicons.dev/icons?i=azure" width="70">
+  <img src="https://skillicons.dev/icons?i=python" width="70">
+  <img src="https://skillicons.dev/icons?i=terraform" width="70">
+  <img src="https://skillicons.dev/icons?i=ansible" width="70">
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="70">
+  <img src="https://skillicons.dev/icons?i=gitlab" width="70">
+  <img src="https://skillicons.dev/icons?i=jenkins" width="70">
+</p>
+
 | Area | Tools & Concepts | Proficiency |
 |---|---|---|
 | ☁️ Cloud | **AWS**, **Azure** | ▰▰▰▰▰▰▰▰▱▱ |
