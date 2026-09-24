@@ -1,11 +1,10 @@
-<h1>
-  👋 Hi, I'm Mukul Sengar
+<p align="center">
   <img
-    align="right"
-    src="https://img.shields.io/badge/Continuous%20Learning-Building%20a%20Better%20Tomorrow-6C757D?style=flat&labelColor=F3F4F6&color=6C757D"
-    alt="Continuous Learning • Building a Better Tomorrow"
-  >
-</h1>
+    src="./assets/mukul-headline.svg"
+    width="100%"
+    alt="Hi, I'm Mukul Sengar"
+  />
+</p>
 
 <p align="center">
   <img
