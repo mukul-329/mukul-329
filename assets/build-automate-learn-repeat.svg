@@ -1,176 +1,728 @@
 <svg
   width="100%"
-  height="140"
-  viewBox="0 0 1000 140"
+  viewBox="0 0 1200 620"
   xmlns="http://www.w3.org/2000/svg"
 >
 
   <defs>
 
-    <!-- Soft glow for the lightning -->
+    <!-- Background -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f7faff"/>
+    </linearGradient>
+
+    <!-- Card gradients -->
+    <linearGradient id="blueCard" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#eef5ff"/>
+      <stop offset="100%" stop-color="#e5efff"/>
+    </linearGradient>
+
+    <linearGradient id="greenCard" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#eefaf5"/>
+      <stop offset="100%" stop-color="#e2f6ed"/>
+    </linearGradient>
+
+    <linearGradient id="orangeCard" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff8ed"/>
+      <stop offset="100%" stop-color="#fff0d7"/>
+    </linearGradient>
+
+    <linearGradient id="purpleCard" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f5f1ff"/>
+      <stop offset="100%" stop-color="#eee9ff"/>
+    </linearGradient>
+
+    <!-- Glow -->
     <filter id="glow">
-      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
 
-    <!-- Subtle shine -->
-    <linearGradient id="blueShine">
-      <stop offset="0%" stop-color="#1764E8"/>
-      <stop offset="50%" stop-color="#4D8DFF"/>
-      <stop offset="100%" stop-color="#1764E8"/>
-    </linearGradient>
+    <!-- Shadow -->
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow
+        dx="0"
+        dy="5"
+        stdDeviation="8"
+        flood-color="#172235"
+        flood-opacity="0.10"
+      />
+    </filter>
+
+    <!-- Arrow -->
+    <marker
+      id="arrow"
+      markerWidth="9"
+      markerHeight="9"
+      refX="7"
+      refY="3"
+      orient="auto"
+    >
+      <path
+        d="M0,0 L0,6 L7,3 z"
+        fill="#8a96a8"
+      />
+    </marker>
 
   </defs>
 
-  <!-- ========================= -->
-  <!-- LIGHTNING -->
-  <!-- ========================= -->
+
+  <!-- ================================================= -->
+  <!-- BACKGROUND -->
+  <!-- ================================================= -->
+
+  <rect
+    width="1200"
+    height="620"
+    rx="20"
+    fill="url(#bg)"
+  />
+
+
+  <!-- ================================================= -->
+  <!-- HEADER -->
+  <!-- ================================================= -->
 
   <text
-    x="43"
-    y="65"
+    x="600"
+    y="55"
+    text-anchor="middle"
     font-family="Arial, Helvetica, sans-serif"
-    font-size="48"
-    fill="#FF9D1C"
+    font-size="38"
+    font-weight="700"
+    fill="#172235"
+  >
+    ⚡ Build.
+    <tspan fill="#1764E8"> Automate.</tspan>
+    <tspan> Learn.</tspan>
+    <tspan fill="#087C4A"> Repeat.</tspan>
+  </text>
+
+  <text
+    x="600"
+    y="87"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="16"
+    fill="#687386"
+  >
+    Turning manual engineering work into reliable, repeatable automation
+  </text>
+
+
+  <!-- ================================================= -->
+  <!-- PIPELINE LINE -->
+  <!-- ================================================= -->
+
+  <path
+    d="M170 245 H1030"
+    stroke="#d6dce5"
+    stroke-width="3"
+    fill="none"
+  />
+
+
+  <!-- ================================================= -->
+  <!-- CARD 1 — BUILD -->
+  <!-- ================================================= -->
+
+  <g filter="url(#shadow)">
+
+    <rect
+      x="55"
+      y="155"
+      width="170"
+      height="180"
+      rx="18"
+      fill="url(#blueCard)"
+    />
+
+    <circle
+      cx="140"
+      cy="205"
+      r="27"
+      fill="#1764E8"
+    />
+
+    <!-- terminal icon -->
+    <text
+      x="140"
+      y="214"
+      text-anchor="middle"
+      font-size="25"
+      fill="white"
+    >
+      &lt;/&gt;
+    </text>
+
+    <text
+      x="140"
+      y="260"
+      text-anchor="middle"
+      font-family="Arial"
+      font-size="22"
+      font-weight="700"
+      fill="#172235"
+    >
+      BUILD
+    </text>
+
+    <text
+      x="140"
+      y="283"
+      text-anchor="middle"
+      font-family="Arial"
+      font-size="13"
+      fill="#687386"
+    >
+      Infrastructure
+    </text>
+
+    <rect
+      x="98"
+      y="300"
+      width="84"
+      height="22"
+      rx="11"
+      fill="#d6e5ff"
+    />
+
+    <text
+      x="140"
+      y="316"
+      text-anchor="middle"
+      font-family="Arial"
+      font-size="11"
+      font-weight="700"
+      fill="#1764E8"
+    >
+      TERRAFORM
+    </text>
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- CARD 2 — AUTOMATE -->
+  <!-- ================================================= -->
+
+  <g filter="url(#shadow)">
+
+    <rect
+      x="260"
+      y="155"
+      width="170"
+      height="180"
+      rx="18"
+      fill="url(#purpleCard)"
+    />
+
+    <circle
+      cx="345"
+      cy="205"
+      r="27"
+      fill="#6845d8"
+    />
+
+    <!-- automation icon -->
+    <path
+      d="M333 205
+         C333 194 342 187 351 190
+         C358 192 362 198 361 205
+         C360 215 350 220 342 216"
+      fill="none"
+      stroke="white"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+
+    <path
+      d="M333 205 L334 194"
+      stroke="white"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+
+    <text
+      x="345"
+      y="260"
+      text-anchor="middle"
+      font-family="Arial"
+      font-size="22"
+      font-weight="700"
+      fill="#172235"
+    >
+      AUTOMATE
+    </text>
+
+    <text
+      x="345"
+      y="283"
+      text-anchor="middle"
+      font-family="Arial"
+      font-size="13"
+      fill="#687386"
+    >
+      Reduce manual work
+    </text>
+
+    <rect
+      x="302"
+      y="300"
+      width="86"
+      height="22"
+      rx="11"
+      fill="#e4dcff"
+    />
+
+    <text
+      x="345"
+      y="316"
+      text-anchor="middle"
+      font-family="Arial"
+      font-size="11"
+      font-weight="700"
+      fill="#6845d8"
+    >
+      ANSIBLE
+    </text>
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- CARD 3 — VERSION -->
+  <!-- ================================================= -->
+
+  <g filter="url(#shadow)">
+
+    <rect
+      x="465"
+      y="155"
+      width="170"
+      height="180"
+      rx="18"
+      fill="url(#greenCard)"
+    />
+
+    <circle
+      cx="550"
+      cy="205"
+      r="27"
+      fill="#087C4A"
+    />
+
+    <!-- Git branch icon -->
+    <circle cx="540" cy="195" r="5" fill="white"/>
+    <circle cx="560" cy="195" r="5" fill="white"/>
+    <circle cx="550" cy="216" r="5" fill="white"/>
+
+    <path
+      d="M540 200 V210
+         M560 200 V204
+         C560 211 550 210 550 216"
+      fill="none"
+      stroke="white"
+      stroke-width="3"
+    />
+
+    <text
+      x="550"
+      y="260"
+      text-anchor="middle"
+      font-family="Arial"
+      font-size="22"
+      font-weight="700"
+      fill="#172235"
+    >
+      VERSION
+    </text>
+
+    <text
+      x="550"
+      y="283"
+      text-anchor="middle"
+      font-family="Arial"
+      font-size="13"
+      fill="#687386"
+    >
+      Track every change
+    </text>
+
+    <rect
+      x="505"
+      y="300"
+      width="90"
+      height="22"
+      rx="11"
+      fill="#d5f0e3"
+    />
+
+    <text
+      x="550"
+      y="316"
+      text-anchor="middle"
+      font-family="Arial"
+      font-size="11"
+      font-weight="700"
+      fill="#087C4A"
+    >
+      GIT
+    </text>
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- CARD 4 — TEST -->
+  <!-- ================================================= -->
+
+  <g filter="url(#shadow)">
+
+    <rect
+      x="670"
+      y="155"
+      width="170"
+      height="180"
+      rx="18"
+      fill="url(#orangeCard)"
+    />
+
+    <circle
+      cx="755"
+      cy="205"
+      r="27"
+      fill="#ff9418"
+    />
+
+    <!-- shield -->
+    <path
+      d="M755 188
+         L770 194
+         V205
+         C770 215 763 222 755 225
+         C747 222 740 215 740 205
+         V194 Z"
+      fill="none"
+      stroke="white"
+      stroke-width="3"
+    />
+
+    <path
+      d="M747 205 L753 211 L764 199"
+      fill="none"
+      stroke="white"
+      stroke-width="3"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+
+    <text
+      x="755"
+      y="260"
+      text-anchor="middle"
+      font-family="Arial"
+      font-size="22"
+      font-weight="700"
+      fill="#172235"
+    >
+      TEST
+    </text>
+
+    <text
+      x="755"
+      y="283"
+      text-anchor="middle"
+      font-family="Arial"
+      font-size="13"
+      fill="#687386"
+    >
+      Validate safely
+    </text>
+
+    <rect
+      x="710"
+      y="300"
+      width="90"
+      height="22"
+      rx="11"
+      fill="#ffe4bd"
+    />
+
+    <text
+      x="755"
+      y="316"
+      text-anchor="middle"
+      font-family="Arial"
+      font-size="11"
+      font-weight="700"
+      fill="#e47b00"
+    >
+      CI/CD
+    </text>
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- CARD 5 — DEPLOY -->
+  <!-- ================================================= -->
+
+  <g filter="url(#shadow)">
+
+    <rect
+      x="875"
+      y="155"
+      width="170"
+      height="180"
+      rx="18"
+      fill="url(#blueCard)"
+    />
+
+    <circle
+      cx="960"
+      cy="205"
+      r="27"
+      fill="#1764E8"
+    />
+
+    <!-- rocket -->
+    <path
+      d="M960 185
+         C970 190 975 202 970 211
+         L960 220
+         L950 211
+         C945 202 950 190 960 185 Z"
+      fill="white"
+    />
+
+    <circle
+      cx="960"
+      cy="201"
+      r="3"
+      fill="#1764E8"
+    />
+
+    <path
+      d="M951 215 L945 222
+         M969 215 L975 222"
+      stroke="white"
+      stroke-width="3"
+      stroke-linecap="round"
+    />
+
+    <text
+      x="960"
+      y="260"
+      text-anchor="middle"
+      font-family="Arial"
+      font-size="22"
+      font-weight="700"
+      fill="#172235"
+    >
+      DEPLOY
+    </text>
+
+    <text
+      x="960"
+      y="283"
+      text-anchor="middle"
+      font-family="Arial"
+      font-size="13"
+      fill="#687386"
+    >
+      Ship confidently
+    </text>
+
+    <rect
+      x="915"
+      y="300"
+      width="90"
+      height="22"
+      rx="11"
+      fill="#d6e5ff"
+    />
+
+    <text
+      x="960"
+      y="316"
+      text-anchor="middle"
+      font-family="Arial"
+      font-size="11"
+      font-weight="700"
+      fill="#1764E8"
+    >
+      CLOUD
+    </text>
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- ARROWS -->
+  <!-- ================================================= -->
+
+  <path
+    d="M225 245 H258"
+    stroke="#8a96a8"
+    stroke-width="3"
+    marker-end="url(#arrow)"
+  />
+
+  <path
+    d="M430 245 H463"
+    stroke="#8a96a8"
+    stroke-width="3"
+    marker-end="url(#arrow)"
+  />
+
+  <path
+    d="M635 245 H668"
+    stroke="#8a96a8"
+    stroke-width="3"
+    marker-end="url(#arrow)"
+  />
+
+  <path
+    d="M840 245 H873"
+    stroke="#8a96a8"
+    stroke-width="3"
+    marker-end="url(#arrow)"
+  />
+
+
+  <!-- ================================================= -->
+  <!-- MOVING PIPELINE DOT -->
+  <!-- ================================================= -->
+
+  <circle
+    r="7"
+    fill="#1764E8"
     filter="url(#glow)"
   >
-    ⚡
 
-    <!-- Small pulse -->
+    <animateMotion
+      path="M225 245 H258 M430 245 H463 M635 245 H668 M840 245 H873"
+      dur="5s"
+      repeatCount="indefinite"
+    />
+
+  </circle>
+
+
+  <!-- ================================================= -->
+  <!-- LEARN & IMPROVE LOOP -->
+  <!-- ================================================= -->
+
+  <path
+    d="M960 360
+       C960 425 900 455 830 455
+       H370
+       C300 455 240 425 240 360"
+    fill="none"
+    stroke="#b8c2d0"
+    stroke-width="3"
+    stroke-dasharray="9 8"
+    marker-end="url(#arrow)"
+  >
+
     <animate
-      attributeName="opacity"
-      values="1;0.65;1"
-      dur="1.8s"
+      attributeName="stroke-dashoffset"
+      from="0"
+      to="-34"
+      dur="1.5s"
       repeatCount="indefinite"
     />
 
-    <animateTransform
-      attributeName="transform"
-      type="scale"
-      values="1;1.08;1"
-      dur="1.8s"
-      repeatCount="indefinite"
-      additive="sum"
-    />
-  </text>
+  </path>
 
 
-  <!-- ========================= -->
-  <!-- MAIN HEADING -->
-  <!-- ========================= -->
+  <!-- ================================================= -->
+  <!-- LOOP LABEL -->
+  <!-- ================================================= -->
+
+  <rect
+    x="445"
+    y="420"
+    width="310"
+    height="44"
+    rx="22"
+    fill="#eef2f7"
+    stroke="#d8dee8"
+  />
 
   <text
-    x="100"
-    y="65"
-    font-family="Arial, Helvetica, sans-serif"
-    font-size="46"
+    x="600"
+    y="448"
+    text-anchor="middle"
+    font-family="Arial"
+    font-size="15"
     font-weight="700"
+    fill="#344054"
   >
-
-    <!-- BUILD -->
-    <tspan fill="#172235">
-      Build.
-    </tspan>
-
-    <!-- AUTOMATE -->
-    <tspan fill="url(#blueShine)">
-      Automate.
-    </tspan>
-
-    <!-- LEARN -->
-    <tspan fill="#172235">
-      Learn.
-    </tspan>
-
-    <!-- REPEAT -->
-    <tspan fill="#087C4A">
-      Repeat.
-    </tspan>
-
+    ↻  LEARN &amp; IMPROVE
   </text>
 
 
-  <!-- ========================= -->
-  <!-- ANIMATED BLUE UNDERLINE -->
-  <!-- ========================= -->
-
-  <rect
-    x="285"
-    y="73"
-    width="0"
-    height="3"
-    rx="2"
-    fill="#1764E8"
-  >
-
-    <animate
-      attributeName="width"
-      values="0;125;125;0"
-      dur="4s"
-      repeatCount="indefinite"
-    />
-
-  </rect>
-
-
-  <!-- ========================= -->
-  <!-- SUBTITLE -->
-  <!-- ========================= -->
+  <!-- ================================================= -->
+  <!-- BOTTOM MESSAGE -->
+  <!-- ================================================= -->
 
   <text
-    x="500"
-    y="98"
+    x="600"
+    y="515"
     text-anchor="middle"
-    font-family="Arial, Helvetica, sans-serif"
-    font-size="15"
-    fill="#5F6368"
+    font-family="Arial"
+    font-size="25"
+    font-weight="700"
+    fill="#172235"
   >
-    I build and automate cloud infrastructure and CI/CD pipelines, transforming manual
+    🚀 Write it once.
+    <tspan fill="#1764E8"> Automate it.</tspan>
+    <tspan> Version it.</tspan>
+    <tspan fill="#087C4A"> Repeat it.</tspan>
   </text>
+
 
   <text
-    x="500"
-    y="119"
+    x="600"
+    y="548"
     text-anchor="middle"
-    font-family="Arial, Helvetica, sans-serif"
-    font-size="15"
-    fill="#5F6368"
+    font-family="Arial"
+    font-size="14"
+    fill="#687386"
   >
-    engineering tasks into version-controlled, testable, and repeatable automation.
+    Infrastructure • Automation • CI/CD • Cloud • Observability
   </text>
 
 
-  <!-- ========================= -->
-  <!-- SUBTLE SCANNING EFFECT -->
-  <!-- ========================= -->
+  <!-- ================================================= -->
+  <!-- ANIMATED ACCENT -->
+  <!-- ================================================= -->
 
-  <rect
-    x="100"
-    y="35"
-    width="4"
-    height="38"
-    rx="2"
+  <circle
+    cx="600"
+    cy="575"
+    r="3"
     fill="#1764E8"
-    opacity="0"
   >
-
     <animate
-      attributeName="x"
-      values="100;850;100"
-      dur="6s"
+      attributeName="r"
+      values="3;6;3"
+      dur="2s"
       repeatCount="indefinite"
     />
 
     <animate
       attributeName="opacity"
-      values="0;0.7;0"
-      dur="6s"
+      values="1;0.3;1"
+      dur="2s"
       repeatCount="indefinite"
     />
-
-  </rect>
+  </circle>
 
 </svg>
