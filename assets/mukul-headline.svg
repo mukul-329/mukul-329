@@ -1,39 +1,33 @@
 <svg
   width="100%"
-  viewBox="0 0 1000 120"
+  viewBox="0 0 1000 140"
   xmlns="http://www.w3.org/2000/svg"
 >
 
-  <!-- ========================================== -->
-  <!-- CENTERED HEADLINE GROUP -->
-  <!-- ========================================== -->
+  <!-- CENTERED CONTENT -->
+  <g transform="translate(220, 0)">
 
-  <g transform="translate(185, 0)">
-
-    <!-- Waving hand -->
+    <!-- Waving Hand -->
     <text
       x="0"
-      y="62"
+      y="70"
       font-family="Arial, sans-serif"
       font-size="42"
     >
       👋
-
       <animateTransform
         attributeName="transform"
         type="rotate"
-        values="-8 20 50; 8 20 50; -8 20 50"
+        values="-10 20 55; 10 20 55; -10 20 55"
         dur="1s"
         repeatCount="indefinite"
       />
-
     </text>
 
-
-    <!-- Text starts AFTER hand -->
+    <!-- Name -->
     <text
       x="58"
-      y="62"
+      y="70"
       font-family="Arial, Helvetica, sans-serif"
       font-size="42"
       font-weight="600"
@@ -44,16 +38,12 @@
 
   </g>
 
-
-  <!-- ========================================== -->
-  <!-- FULL UNDERLINE -->
-  <!-- ========================================== -->
-
+  <!-- UNDERLINE -->
   <line
-    x1="50"
-    y1="88"
-    x2="950"
-    y2="88"
+    x1="230"
+    y1="100"
+    x2="770"
+    y2="100"
     stroke="#d8dee8"
     stroke-width="2"
   />
