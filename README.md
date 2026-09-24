@@ -1,33 +1,43 @@
-<h1>
-  👋 Hi, I'm Mukul Sengar
+<p align="center">
   <img
-    align="right"
-    src="https://img.shields.io/badge/Continuous%20Learning-Building%20a%20Better%20Tomorrow-6C757D?style=flat&labelColor=F3F4F6&color=6C757D"
-    alt="Continuous Learning • Building a Better Tomorrow"
-  >
-</h1>
+    src="./assets/mukul-headline.svg"
+    width="100%"
+    alt="Hi, I'm Mukul Sengar"
+  />
+</p>
 
 <p align="center">
+  <img
+    src="./assets/build-automate-learn-repeat.svg"
+    alt="Build. Automate. Learn. Repeat."
+    width="900"
+  />
+</p>
+
+<!-- <p align="center">
   <img src="./assets/mindset.webp"
        alt="DevOps Automation Mindset"
        width="800">
-</p>
+</p> -->
 
 ## 🧭 DevOps Toolkit
 
-| Area | Tools & Concepts | Proficiency |
-|---|---|---|
-| ☁️ Cloud | **AWS**, **Azure** | ▰▰▰▰▰▰▰▰▱▱ |
-| 🏗️ IaC & Configuration | **Terraform**, Ansible, CloudFormation | ▰▰▰▰▰▰▰▱▱▱ |
-| 🔄 CI/CD | Azure DevOps, Jenkins, **GitHub Actions**, GitLab | ▰▰▰▰▰▰▰▰▱▱ |
-| 📦 Containers | **Docker**, Kubernetes, EKS | ▰▰▰▰▰▰▰▰▱▱ |
-| 🌐 Networking | DNS, TCP/IP, VNet/VPC, VPN, Load Balancers | ▰▰▰▰▰▰▰▰▰▱ |
-| 📊 Monitoring | Prometheus, Grafana, ELK | ▰▰▰▰▰▰▱▱▱▱ |
-| 🔐 Security & Identity | IAM, Microsoft Entra, Azure Key Vault | ▰▰▰▰▰▰▱▱▱▱ |
-| 🔧 Version Control | **Git**, **GitHub** | ▰▰▰▰▰▰▰▰▰▱ |
-| 🐍 Scripting & Automation | **Python**, **Shell Scripting**, **YAML** | ▰▰▰▰▰▰▰▱▱▱ |
-| 🛡️ DevSecOps | SonarQube, CodeQL, Trivy, Anchore, OWASP | ▰▰▰▰▰▰▰▱▱▱ |
-
+<p>
+  <img src="https://skillicons.dev/icons?i=python" width="70">
+  <img src="https://skillicons.dev/icons?i=linux" width="70">
+  <img src="https://skillicons.dev/icons?i=docker" width="70">
+  <img src="https://skillicons.dev/icons?i=githubactions" width="70">
+  <img src="https://skillicons.dev/icons?i=gitlab" width="70">
+  <img src="https://skillicons.dev/icons?i=jenkins" width="70">
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="70">
+  <img src="https://skillicons.dev/icons?i=azure" width="70">
+  <img src="https://skillicons.dev/icons?i=aws" width="70">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="70">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="70">
+  <img src="https://skillicons.dev/icons?i=prometheus" width="70">
+  <img src="https://skillicons.dev/icons?i=grafana" width="70">
+  
+</p>
 
 ## 🚀 Projects
 
@@ -129,32 +139,18 @@
    </a>
 </p>
 
-## Certifications
+## 🎓 Certifications
 
 <p>
-  <img src="./assets/certifications/pcap.png" width="90">
-  <img src="./assets/certifications/az-104.png" width="90">
-  <img src="./assets/certifications/az-700.png" width="90">
-  <img src="./assets/certifications/github-foundations.png" width="90">
-  <img src="./assets/certifications/az-400.png" width="90">
-  <img src="./assets/certifications/pcep.png" width="90">
-  <img src="./assets/certifications/terraform-associate.png" width="90">
-  <img src="./assets/certifications/az-900.png" width="90">
+  <a href="https://www.credly.com/badges/bdb67862-6727-4def-a439-b8b0180f7f4e/public_url"><img src="./assets/certifications/pcap.png" width="90"></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/MukulAnandSengar-0028/72A00F571546A8E1?sharingId=A8DE60E1EFBCC4B9"><img src="./assets/certifications/az-104.png" width="90"></a>
+  <a href="https://www.credly.com/badges/1f034e5e-6514-4172-a9b3-78beed881dee/public_url"><img src="./assets/certifications/github-foundations.png" width="90"></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/MukulAnandSengar-0028/9FE26D361A927068?sharingId=A8DE60E1EFBCC4B9"><img src="./assets/certifications/az-400.png" width="90"></a>
+  <a href="https://www.credly.com/badges/1c7859cd-32bc-4b85-9747-2b35f3524d0c/public_url"><img src="./assets/certifications/pcep.png" width="90"></a>
+  <a href="https://www.credly.com/badges/84cb1cb0-a144-4b68-92f7-86702e1be7c8/public_url"><img src="./assets/certifications/terraform-associate.png" width="90"></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/MukulAnandSengar-0028/F9140C369CEFB384?sharingId=A8DE60E1EFBCC4B9"><img src="./assets/certifications/az-900.png" width="90"></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/MukulAnandSengar-0028/9E472D7E7607C998?sharingId=A8DE60E1EFBCC4B9"><img src="./assets/certifications/az-700.png" width="80"></a>
 </p>
-
-## 🛠️ Tech Stack
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-<br>
 
 ## 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=mukul-329&theme=dark&hide_border=false)<br/>
