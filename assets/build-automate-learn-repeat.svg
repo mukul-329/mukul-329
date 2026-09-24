@@ -1,0 +1,176 @@
+<svg
+  width="100%"
+  height="140"
+  viewBox="0 0 1000 140"
+  xmlns="http://www.w3.org/2000/svg"
+>
+
+  <defs>
+
+    <!-- Soft glow for the lightning -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Subtle shine -->
+    <linearGradient id="blueShine">
+      <stop offset="0%" stop-color="#1764E8"/>
+      <stop offset="50%" stop-color="#4D8DFF"/>
+      <stop offset="100%" stop-color="#1764E8"/>
+    </linearGradient>
+
+  </defs>
+
+  <!-- ========================= -->
+  <!-- LIGHTNING -->
+  <!-- ========================= -->
+
+  <text
+    x="43"
+    y="65"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="48"
+    fill="#FF9D1C"
+    filter="url(#glow)"
+  >
+    ⚡
+
+    <!-- Small pulse -->
+    <animate
+      attributeName="opacity"
+      values="1;0.65;1"
+      dur="1.8s"
+      repeatCount="indefinite"
+    />
+
+    <animateTransform
+      attributeName="transform"
+      type="scale"
+      values="1;1.08;1"
+      dur="1.8s"
+      repeatCount="indefinite"
+      additive="sum"
+    />
+  </text>
+
+
+  <!-- ========================= -->
+  <!-- MAIN HEADING -->
+  <!-- ========================= -->
+
+  <text
+    x="100"
+    y="65"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="46"
+    font-weight="700"
+  >
+
+    <!-- BUILD -->
+    <tspan fill="#172235">
+      Build.
+    </tspan>
+
+    <!-- AUTOMATE -->
+    <tspan fill="url(#blueShine)">
+      Automate.
+    </tspan>
+
+    <!-- LEARN -->
+    <tspan fill="#172235">
+      Learn.
+    </tspan>
+
+    <!-- REPEAT -->
+    <tspan fill="#087C4A">
+      Repeat.
+    </tspan>
+
+  </text>
+
+
+  <!-- ========================= -->
+  <!-- ANIMATED BLUE UNDERLINE -->
+  <!-- ========================= -->
+
+  <rect
+    x="285"
+    y="73"
+    width="0"
+    height="3"
+    rx="2"
+    fill="#1764E8"
+  >
+
+    <animate
+      attributeName="width"
+      values="0;125;125;0"
+      dur="4s"
+      repeatCount="indefinite"
+    />
+
+  </rect>
+
+
+  <!-- ========================= -->
+  <!-- SUBTITLE -->
+  <!-- ========================= -->
+
+  <text
+    x="500"
+    y="98"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="15"
+    fill="#5F6368"
+  >
+    I build and automate cloud infrastructure and CI/CD pipelines, transforming manual
+  </text>
+
+  <text
+    x="500"
+    y="119"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="15"
+    fill="#5F6368"
+  >
+    engineering tasks into version-controlled, testable, and repeatable automation.
+  </text>
+
+
+  <!-- ========================= -->
+  <!-- SUBTLE SCANNING EFFECT -->
+  <!-- ========================= -->
+
+  <rect
+    x="100"
+    y="35"
+    width="4"
+    height="38"
+    rx="2"
+    fill="#1764E8"
+    opacity="0"
+  >
+
+    <animate
+      attributeName="x"
+      values="100;850;100"
+      dur="6s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="opacity"
+      values="0;0.7;0"
+      dur="6s"
+      repeatCount="indefinite"
+    />
+
+  </rect>
+
+</svg>
