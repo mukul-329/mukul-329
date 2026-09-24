@@ -8,10 +8,18 @@
 </h1>
 
 <p align="center">
+  <img
+    src="./assets/build-automate-learn-repeat.svg"
+    alt="Build. Automate. Learn. Repeat."
+    width="900"
+  />
+</p>
+
+<!-- <p align="center">
   <img src="./assets/mindset.webp"
        alt="DevOps Automation Mindset"
        width="800">
-</p>
+</p> -->
 
 ## 🧭 DevOps Toolkit
 
