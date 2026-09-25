@@ -153,7 +153,11 @@
 </p>
 
 ## 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=mukul-329&theme=dark&hide_border=false)<br/>
+
+<div>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mukul-329&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats-eight-roan-64.vercel.app/api/top-langs/?username=mukul-329&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
 ## 🌐 Connect With Me
 [![RESUME](https://img.shields.io/badge/RESUME-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mukul-329.github.io)
