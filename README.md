@@ -5,7 +5,16 @@
   />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Developer+Advocate;DevOps+%26+Platform+Engineering;8%2B+Years+Experience;Cloud+Architecture+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Cloud+DevOps+Engineer;DevOps+%26+Platform+Engineering;4%2B+Years+Experience;Cloud+Architecture+Expert)](https://git.io/typing-svg)
+
+## About Me
+I'm a Cloud & DevOps Engineer with 4 years of experience in designing, automating, and operating cloud infrastructure. Specialised 
+in implementing monitoring and observability solutions using Prometheus, Grafana, and the ELK Stack to sustain 99.9% production uptime. Proficient in building CI/CD pipelines, automating infrastructure with Terraform, and orchestrating containerised workloads with Kubernetes. A strong problem solver with a willingness to learn and improve system reliability.
+
+
+
+
+
 
 <!-- <p align="center">
   <img
