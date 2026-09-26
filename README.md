@@ -20,8 +20,6 @@ My experience in operations has shaped the way I approach DevOps — focusing no
 - 🧠 Using real-world operations challenges to build practical and reliable DevOps solutions
 - 🚀 Continuously learning and contributing to **Cloud**, **DevOps**, **Kubernetes**, and **Platform Engineering**.
 
-⚙️ **Automation mindset**: Identify → Analyze → Standardize → Automate → Measure
-
 <!-- <p align="center">
   <img
     src="./assets/build-automate-learn-repeat.svg"
