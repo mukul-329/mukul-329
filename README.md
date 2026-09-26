@@ -5,7 +5,7 @@
   />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans-serif&pause=1000&color=2E9EF7&width=400&lines=Cloud+DevOps+Engineer;4%2B+Years+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans-serif&pause=1000&color=2E9EF7&width=400&lines=Cloud+DevOps+Engineer;4%2B+Years+Experience;Build+Automate+Learn+Repeat)](https://git.io/typing-svg)
 
 ## About Me
 I'm a **DevOps Engineer** with a strong operations background, experienced in working with production environments, troubleshooting incidents, monitoring systems, and understanding the challenges that teams face in day-to-day operations.
