@@ -5,16 +5,22 @@
   />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Cloud+DevOps+Engineer;DevOps+%26+Platform+Engineering;4%2B+Years+Experience;Cloud+Architecture+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans-serif&pause=1000&color=2E9EF7&width=400&lines=Cloud+DevOps+Engineer;4%2B+Years+Experience)](https://git.io/typing-svg)
 
 ## About Me
-I'm a Cloud & DevOps Engineer with 4 years of experience in designing, automating, and operating cloud infrastructure. Specialised 
-in implementing monitoring and observability solutions using Prometheus, Grafana, and the ELK Stack to sustain 99.9% production uptime. Proficient in building CI/CD pipelines, automating infrastructure with Terraform, and orchestrating containerised workloads with Kubernetes. A strong problem solver with a willingness to learn and improve system reliability.
+I'm a **DevOps Engineer** with a strong operations background, experienced in working with production environments, troubleshooting incidents, monitoring systems, and understanding the challenges that teams face in day-to-day operations.
 
+My experience in operations has shaped the way I approach DevOps — focusing not just on deploying systems, but on making them **reliable, observable, automated, and easier to operate.**
 
+- 🔧 Bringing my **operations experience and production knowledge** into DevOps Engineering.
+- ☁️ Working with **AWS**, **Azure**, **Terraform**, **Kubernetes**, **Docker**, and **Ansible**.
+- 🔄 Building **CI/CD** and **GitOps** workflows to reduce manual effort and deployment issues.
+- 📊 Focusing on **monitoring**, **observability**, **incident response**, and **system reliability**.
+- 🛠️ Automating repetitive operational tasks and infrastructure processes
+- 🧠 Using real-world operations challenges to build practical and reliable DevOps solutions
+- 🚀 Continuously learning and contributing to **Cloud**, **DevOps**, **Kubernetes**, and **Platform Engineering**.
 
-
-
+⚙️ **Automation mindset**: Identify → Analyze → Standardize → Automate → Measure
 
 <!-- <p align="center">
   <img
