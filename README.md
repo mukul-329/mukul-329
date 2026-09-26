@@ -1,12 +1,26 @@
-<p align="center">
+<p>
   <img
     src="./assets/mukul-headline.svg"
-    width="100%"
     alt="Hi, I'm Mukul Sengar"
   />
 </p>
 
-<p align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans-serif&pause=500&color=2E9EF7&width=435&lines=Cloud+DevOps+Engineer;4%2B+Years+Experience;Build+%E2%86%92+Automate+%E2%86%92+Learn+%E2%86%92+Repeat)](https://git.io/typing-svg)
+
+## About Me
+I'm a **DevOps Engineer** with a strong operations background, experienced in working with production environments, troubleshooting incidents, monitoring systems, and understanding the challenges that teams face in day-to-day operations.
+
+My experience in operations has shaped the way I approach DevOps — focusing not just on deploying systems, but on making them **reliable, observable, automated, and easier to operate.**
+
+- 🔧 Bringing my **operations experience and production knowledge** into DevOps Engineering.
+- ☁️ Working with **AWS**, **Azure**, **Terraform**, **Kubernetes**, **Docker**, and **Ansible**.
+- 🔄 Building **CI/CD** and **GitOps** workflows to reduce manual effort and deployment issues.
+- 📊 Focusing on **monitoring**, **observability**, **incident response**, and **system reliability**.
+- 🛠️ Automating repetitive operational tasks and infrastructure processes
+- 🧠 Using real-world operations challenges to build practical and reliable DevOps solutions
+- 🚀 Continuously learning and contributing to **Cloud**, **DevOps**, **Kubernetes**, and **Platform Engineering**.
+
+<!-- <p align="center">
   <img
     src="./assets/build-automate-learn-repeat.svg"
     alt="Build. Automate. Learn. Repeat."
@@ -14,7 +28,7 @@
   />
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="./assets/mindset.webp"
        alt="DevOps Automation Mindset"
        width="800">
@@ -41,11 +55,12 @@
 
 ## 🚀 Projects
 
-| Name | Architecture | Stack | Security | CI/CD | IaC | Cloud | Status |
-|---|---|---|---|---|---|---|---| 
-| [**WebBlog**](https://github.com/mukul-329/WebBlog) | 3-Tier | React · Node.js · MongoDB | SonarQube, Trivy  | Github Actions | Not Implemented | AWS EC2 | 🟡 In Progress |
-| [**OneApps**](https://github.com/mukul-329/OneApps) | 3-Tier | React · Node.js · MySQL | SonarQube, Trivy | Jenkins | Not Implemented | AWS EC2 | 🟡 In Progress |
-| [**Terraform Modules**]() | 3-Tier | Java · Spring · PostgreSQL | Trivy | GitLab | Terraform | Azure | 🟡 In Progress |
+| Project | Stack | Status |
+|---|---|---|
+| [**WebBlog**](https://github.com/mukul-329/WebBlog) | React · Node.js · MongoDB · GitHub Actions · AWS | 🟡 In Progress |
+| [**OneApps**](https://github.com/mukul-329/OneApps) | React · Node.js · MySQL · Jenkins · AWS | 🟡 In Progress |
+| [**DevBoard**](https://github.com/mukul-329/devboard) | React · Go · PostGres · GitLab · AWS | 🟡 In Progress |
+| [**Terraform Modules**](https://github.com/mukul-329/terraform-azurerm-virtual-machine-windows-linux) | Terraform · Azure · VM · VNET · NSG | 🟡 In Progress |
 
 ## 🗺️ DevOps Roadmap
 
