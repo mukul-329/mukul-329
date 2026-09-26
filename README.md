@@ -57,9 +57,10 @@ My experience in operations has shaped the way I approach DevOps — focusing no
 
 | Project | Stack | Status |
 |---|---|---|
-| [**WebBlog**](https://github.com/mukul-329/WebBlog) | React · Node.js · MongoDB · Docker · Kubernetes · GitHub Actions · AWS | 🟡 In Progress |
+| [**WebBlog**](https://github.com/mukul-329/WebBlog) | React · Node.js · MongoDB · GitHub Actions · AWS | 🟡 In Progress |
 | [**OneApps**](https://github.com/mukul-329/OneApps) | React · Node.js · MySQL · Jenkins · AWS | 🟡 In Progress |
-| [**Terraform Modules**]() | Terraform · Azure · VM · VNET · NSG | 🟡 In Progress |
+| [**DevBoard**](https://github.com/mukul-329/devboard) | React · Go · PostGres · GitLab · AWS | 🟡 In Progress |
+| [**Terraform Modules**](https://github.com/mukul-329/terraform-azurerm-virtual-machine-windows-linux) | Terraform · Azure · VM · VNET · NSG | 🟡 In Progress |
 
 ## 🗺️ DevOps Roadmap
 
