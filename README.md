@@ -55,19 +55,11 @@ My experience in operations has shaped the way I approach DevOps — focusing no
 
 ## 🚀 Projects
 
-| Name | Architecture | Stack | Security | CI/CD | IaC | Cloud | Status |
-|---|---|---|---|---|---|---|---| 
-| [**WebBlog**](https://github.com/mukul-329/WebBlog) | 3-Tier | React · Node.js · MongoDB | SonarQube, Trivy  | Github Actions | Not Implemented | AWS EC2 | 🟡 In Progress |
-| [**OneApps**](https://github.com/mukul-329/OneApps) | 3-Tier | React · Node.js · MySQL | SonarQube, Trivy | Jenkins | Not Implemented | AWS EC2 | 🟡 In Progress |
-| [**Terraform Modules**]() | 3-Tier | Java · Spring · PostgreSQL | Trivy | GitLab | Terraform | Azure | 🟡 In Progress |
-
-## 🚀 Projects
-
 | Project | Stack | Status |
 |---|---|---|
 | [**WebBlog**](https://github.com/mukul-329/WebBlog) | React · Node.js · MongoDB · Docker · Kubernetes · GitHub Actions · AWS | 🟡 In Progress |
 | [**OneApps**](https://github.com/mukul-329/OneApps) | React · Node.js · MySQL · Jenkins · AWS | 🟡 In Progress |
-| **Terraform Modules** | Terraform · Azure · GitLab · Java · Spring · PostgreSQL | 🟡 In Progress |
+| [**Terraform Modules**]() | Terraform · Azure · VM · VNET · NSG | 🟡 In Progress |
 
 ## 🗺️ DevOps Roadmap
 
