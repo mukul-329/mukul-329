@@ -5,13 +5,15 @@
   />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans-serif&pause=500&color=2E9EF7&width=435&lines=Cloud+DevOps+Engineer;4%2B+Years+Experience;Build+%E2%86%92+Automate+%E2%86%92+Learn+%E2%86%92+Repeat)](https://git.io/typing-svg)
-
 [![RESUME](https://img.shields.io/badge/RESUME-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mukul-329.github.io)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/mukul-329)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukulsengar/)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukulsengar329@gmail.com)
 [![AWS Builder Community](https://img.shields.io/badge/AWS%20BUILDER%20COMMUNITY-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://builder.aws.com/community/@withmukul)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans-serif&pause=500&color=2E9EF7&width=435&lines=Cloud+DevOps+Engineer;4%2B+Years+Experience;Build+%E2%86%92+Automate+%E2%86%92+Learn+%E2%86%92+Repeat)](https://git.io/typing-svg)
+
+
 
 ## About Me
 I'm a **DevOps Engineer** with a strong operations background, experienced in working with production environments, troubleshooting incidents, monitoring systems, and understanding the challenges that teams face in day-to-day operations.
