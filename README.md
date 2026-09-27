@@ -178,10 +178,3 @@ My experience in operations has shaped the way I approach DevOps — focusing no
 <div>
 <img height="165" src="https://streak-stats.demolab.com/?user=mukul-329&theme=dark&hide_border=false"/><img height="165" src="https://github-readme-stats-eight-roan-64.vercel.app/api/top-langs/?username=shashankcodes-10&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
-
-## 🌐 Connect With Me
-[![RESUME](https://img.shields.io/badge/RESUME-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mukul-329.github.io)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/mukul-329)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukulsengar/)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukulsengar329@gmail.com)
-[![AWS Builder Community](https://img.shields.io/badge/AWS%20BUILDER%20COMMUNITY-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://builder.aws.com/community/@withmukul)
