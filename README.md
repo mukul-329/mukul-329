@@ -177,12 +177,10 @@ My experience in operations has shaped the way I approach DevOps — focusing no
 
 <div>
 <img height="165" src="https://streak-stats.demolab.com/?user=mukul-329&theme=dark&hide_border=false"/><img height="165" src="https://github-readme-stats-eight-roan-64.vercel.app/api/top-langs/?username=shashankcodes-10&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+</div><br>
 
----
 
 <div align="center">
-
 📫 <strong>Reach me:</strong>&nbsp;
 <a href="https://www.linkedin.com/in/mukulsengar">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" />
