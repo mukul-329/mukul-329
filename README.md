@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukulsengar329@gmail.com)
 [![AWS Builder Community](https://img.shields.io/badge/AWS%20BUILDER%20COMMUNITY-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://builder.aws.com/community/@withmukul)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&&pause=500&color=207195&width=700&lines=Cloud+%26+DevSecOps+Engineer+%7C+3%2B+years+of+experience" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&&pause=500&color=207195&width=700&lines=Cloud+%26+DevSecOps+Engineer+%E2%80%A2+3%2B+years+of+experience" alt="Typing SVG" /></a>
 
 ## About Me
 I'm a **DevOps Engineer** with a strong operations background, experienced in working with production environments, troubleshooting incidents, monitoring systems, and understanding the challenges that teams face in day-to-day operations.
