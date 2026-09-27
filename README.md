@@ -176,7 +176,7 @@ My experience in operations has shaped the way I approach DevOps — focusing no
 ## 📊 GitHub Stats:
 
 <div>
-<img height="165" src="https://streak-stats.demolab.com/?user=mukul-329&theme=dark&hide_border=false"/><img height="165" src="https://github-readme-stats-eight-roan-64.vercel.app/api/top-langs/?username=shashankcodes-10&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=mukul-329&theme=dark&hide_border=false&v=1"/><img height="165" src="https://github-readme-stats-eight-roan-64.vercel.app/api/top-langs/?username=mukul-329&layout=compact&theme=tokyonight&hide_border=true&v=1"/>
 </div><br>
 
 
