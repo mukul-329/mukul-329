@@ -2,7 +2,7 @@
   <img
     src="./assets/mukul-headline.svg"
     alt="Hi, I'm Mukul Sengar"
-  />
+  /> 
 </p>
 
 [![RESUME](https://img.shields.io/badge/RESUME-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mukul-329.github.io)
