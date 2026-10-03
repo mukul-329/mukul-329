@@ -64,7 +64,7 @@ My experience in operations has shaped the way I approach DevOps — focusing no
 
 | Project | Description | Status |
 |---|---|---|
-| [**Kubeadm-k8**](https://github.com/mukul-329/kubeadm-k8s-cluster) | Automated Kubernetes cluster provisioning on AWS EC2 using Ansible, kubeadm, and Cilium. | 🟡 In Progress |
+| [**kubeadm-k8s**](https://github.com/mukul-329/kubeadm-k8s-cluster) | Automated Kubernetes cluster provisioning on AWS EC2 using Ansible, kubeadm, and Cilium. | 🟡 In Progress |
 | [**WebBlog**](https://github.com/mukul-329/WebBlog) | 3-tier web application with containerization, CI/CD, and Kubernetes deployment.  | 🟡 In Progress |
 | [**OneApps**](https://github.com/mukul-329/OneApps) | Multi-service platform designed to bring media, commerce, travel, payments, and learning into one ecosystem. | 🟡 In Progress |
 | [**DevBoard**](https://github.com/mukul-329/devboard) | A project and task management platform designed for team collaboration and progress tracking. | 🟡 In Progress |
