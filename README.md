@@ -67,7 +67,7 @@ My experience in operations has shaped the way I approach DevOps — focusing no
 | [**WebBlog**](https://github.com/mukul-329/WebBlog) | 3-tier web application with containerization, CI/CD, and Kubernetes deployment.  | 🟡 In Progress |
 | [**OneApps**](https://github.com/mukul-329/OneApps) | Multi-service platform designed to bring media, commerce, travel, payments, and learning into one ecosystem. | 🟡 In Progress |
 | [**DevBoard**](https://github.com/mukul-329/devboard) | A project and task management platform designed for team collaboration and progress tracking. | 🟡 In Progress |
-| [**Terraform VM Module**](https://github.com/mukul-329/terraform-azurerm-virtual-machine-windows-linux) | A reusable Terraform module published on registry for provisioning virtual machines on Microsoft Azure. | 🟢 Completed |
+| [**VM Module**](https://github.com/mukul-329/terraform-azurerm-virtual-machine-windows-linux) | A reusable Terraform module published on registry for provisioning virtual machines on Microsoft Azure. | 🟢 Completed |
 
 ## 🗺️ DevOps Roadmap
 
