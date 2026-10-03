@@ -1,0 +1,46 @@
+name: Refresh Profile README Cache
+
+on:
+  schedule:
+    # Every hour at minute 17
+    - cron: "17 * * * *"
+
+  # Allows manual execution from GitHub Actions
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate cache-busting value
+        id: cache
+        run: |
+          echo "version=$(date +%s)" >> "$GITHUB_OUTPUT"
+
+      - name: Update README cache-busting value
+        env:
+          VERSION: ${{ steps.cache.outputs.version }}
+        run: |
+          sed -i "s/PROFILE_CACHE=[^\"&]*/PROFILE_CACHE=$VERSION/g" README.md
+
+      - name: Commit README changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: refresh README cache"
+          git push
