@@ -60,6 +60,7 @@ My experience in operations has shaped the way I approach DevOps — focusing no
   
 </p>
 
+
 ## 🚀 Projects
 
 | Project | Description | Status |
