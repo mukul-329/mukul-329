@@ -60,6 +60,7 @@ My experience in operations has shaped the way I approach DevOps — focusing no
   
 </p>
 
+
 ## 🚀 Projects
 
 | Project | Description | Status |
@@ -182,15 +183,14 @@ My experience in operations has shaped the way I approach DevOps — focusing no
 <img height="165" src="https://github-readme-stats-eight-roan-64.vercel.app/api/top-langs/?username=mukul-329&layout=compact&theme=tokyonight&hide_border=true&PROFILE_CACHE=1791877388"/>
 </div><br>
 
-
+---
 <div align="center">
-📫 <strong>Reach me:</strong>&nbsp;
-<a href="https://www.linkedin.com/in/mukulsengar">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" />
-</a>
-&nbsp;
-<a href="mailto:mukulsengar329@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="22" />
-</a>
+
+### 🤝 Let’s build, automate, and scale together!
+
+**Open to DevOps · SRE · Cloud / Platform Engineer roles**
+
+<a href="https://www.linkedin.com/in/mukulsengar/"><img src="https://img.shields.io/badge/-Let's%20Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mukulsengar329@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 </div>
