@@ -185,7 +185,7 @@ My experience in operations has shaped the way I approach DevOps — focusing no
 ---
 <div align="center">
 
-#### 🤝 Let’s build, automate, and scale together!
+### 🤝 Let’s build, automate, and scale together!
 
 **Open to DevOps · SRE · Cloud / Platform Engineer roles**
 
