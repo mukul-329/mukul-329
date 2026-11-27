@@ -12,20 +12,17 @@
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukulsengar329@gmail.com)
 [![AWS Builder Community](https://img.shields.io/badge/AWS%20BUILDER%20COMMUNITY-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://builder.aws.com/community/@withmukul)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&&pause=500&color=207195&width=700&lines=Cloud+%26+DevSecOps+Engineer+%7C+4+years+of+experience" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=500&color=207195&width=700&lines=Cloud+%26+DevSecOps+Engineer+%7C+4%2B+years+of+experience;Multi-Cloud+Experience+-+AWS%2C+Azure%2C+GCP" alt="Typing SVG" /></a>
 
-## About Me
-I'm a **DevOps Engineer** with a strong operations background, experienced in working with production environments, troubleshooting incidents, monitoring systems, and understanding the challenges that teams face in day-to-day operations.
+## 👨‍💻 About Me
 
-My experience in operations has shaped the way I approach DevOps — focusing not just on deploying systems, but on making them **reliable, observable, automated, and easier to operate.**
+I'm a **DevOps & Cloud Engineer with 4+ years of experience** grounded in production operations, incident troubleshooting, and system monitoring. My operations background shapes how I build infrastructure—focusing not just on shipping code, but on making platforms **resilient, observable, automated, and easy to operate.**
 
-- 🔧 Bringing my **operations experience and production knowledge** into DevOps Engineering.
-- ☁️ Working with **AWS**, **Azure**, **Terraform**, **Kubernetes**, **Docker**, and **Ansible**.
-- 🔄 Building **CI/CD** and **GitOps** workflows to reduce manual effort and deployment issues.
-- 📊 Focusing on **monitoring**, **observability**, **incident response**, and **system reliability**.
-- 🛠️ Automating repetitive operational tasks and infrastructure processes
-- 🧠 Using real-world operations challenges to build practical and reliable DevOps solutions
-- 🚀 Continuously learning and contributing to **Cloud**, **DevOps**, **Kubernetes**, and **Platform Engineering**.
+- ☁️ **Multi-Cloud & IaC:** Architecting and automating infrastructure across **AWS**, **Azure**, and **GCP** using **Terraform** and **Ansible**.
+- 🔄 **CI/CD & GitOps:** Building automated delivery pipelines to eliminate manual toil and reduce deployment friction.
+- 📊 **Reliability & Observability:** Designing proactive monitoring, alerting, and incident response workflows for production environments.
+- 🚀 **Continuous Builder:** Currently building **WebBlog** and **Job Assistance** platforms while contributing to Cloud, Kubernetes, and Platform Engineering.
+
 
 <!-- <p align="center">
   <img
@@ -43,7 +40,7 @@ My experience in operations has shaped the way I approach DevOps — focusing no
 
 ## 🧭 DevOps Toolkit
 
-<p>
+<!-- <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50">
@@ -53,23 +50,37 @@ My experience in operations has shaped the way I approach DevOps — focusing no
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="50">
   <img src="https://skillicons.dev/icons?i=aws" width="50">
+  <img src="https://skillicons.dev/icons?i=gcp" width="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="60">
   <img src="https://skillicons.dev/icons?i=prometheus" width="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="60">
   
-</p>
+</p> -->
 
 
-## 🚀 Projects
+<div>
 
-| Project | Description | Status |
-|---|---|---|
-| [**kubeadm-k8s**](https://github.com/mukul-329/kubeadm-k8s-cluster) | Automated Kubernetes cluster provisioning on AWS EC2 using Ansible, kubeadm, and Cilium. | 🟡 In Progress |
-| [**WebBlog**](https://github.com/mukul-329/WebBlog) | 3-tier web application with containerization, CI/CD, and Kubernetes deployment.  | 🟡 In Progress |
-| [**OneApps**](https://github.com/mukul-329/OneApps) | Multi-service platform designed to bring media, commerce, travel, payments, and learning into one ecosystem. | 🟡 In Progress |
-| [**DevBoard**](https://github.com/mukul-329/devboard) | A project and task management platform designed for team collaboration and progress tracking. | 🟡 In Progress |
-| [**VM Module**](https://github.com/mukul-329/terraform-azurerm-virtual-machine-windows-linux) | A reusable Terraform module published on registry for provisioning virtual machines on Microsoft Azure. | 🟢 Completed |
+| Category | Technologies |
+| :--- | :---: |
+| **Cloud Platforms** | <img src="https://skillicons.dev/icons?i=aws" width="45" alt="AWS" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45" alt="Azure" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="45" alt="GCP" /> |
+| **Containers & Orchestration** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" alt="Docker" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="45" alt="Kubernetes" /> |
+| **IaC & Configuration** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="45" alt="Terraform" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="45" alt="Ansible" /> |
+| **CI/CD & Version Control** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="45" alt="GitHub Actions" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="45" alt="GitLab" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="45" alt="Jenkins" /> |
+| **Observability & Scripting** | <img src="https://skillicons.dev/icons?i=prometheus" width="45" alt="Prometheus" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="45" alt="Grafana" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" alt="Python" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" alt="Linux" />  |
+
+</div>
+
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Focus | Status |
+| :--- | :--- | :--- | :---: |
+| [**VM Module**](https://github.com/mukul-329/terraform-azurerm-virtual-machine-windows-linux) | Reusable Terraform module published on the registry for provisioning Windows & Linux VMs on Microsoft Azure. | `Terraform` `Azure` | 🟢 Completed |
+| [**kubeadm-k8s**](https://github.com/mukul-329/kubeadm-k8s-cluster) | Automated Kubernetes cluster provisioning on AWS EC2 using Ansible, kubeadm, and Cilium CNI. | `AWS` `K8s` `Ansible` | 🟡 In Progress |
+| [**WebBlog**](https://github.com/mukul-329/WebBlog) | 3-tier web application featuring containerization, automated CI/CD pipelines, and Kubernetes deployment. | `Docker` `K8s` `CI/CD` | 🟡 In Progress |
+| [**OneApps**](https://github.com/mukul-329/OneApps) | Multi-service platform uniting media, commerce, travel, payments, and learning into a single ecosystem. | `Microservices` `Cloud` | 🟡 In Progress |
+| [**DevBoard**](https://github.com/mukul-329/devboard) | Project and task management platform built for engineering team collaboration and progress tracking. | `Full-Stack` `DevOps` | 🟡 In Progress |
 
 
 ## 🎓 Certifications
@@ -97,7 +108,7 @@ My experience in operations has shaped the way I approach DevOps — focusing no
 
 ### 🤝 Let’s build, automate, and scale together!
 
-**Open to DevOps · SRE · Cloud / Platform Engineer roles**
+**Open to DevOps · SRE · Cloud · Platform Engineer roles**
 
 <a href="https://www.linkedin.com/in/mukulsengar/"><img src="https://img.shields.io/badge/-Let's%20Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mukulsengar329@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
