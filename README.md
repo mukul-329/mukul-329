@@ -50,6 +50,7 @@ I'm a **DevOps & Cloud Engineer with 4+ years of experience** grounded in produc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="50">
   <img src="https://skillicons.dev/icons?i=aws" width="50">
+  <img src="https://skillicons.dev/icons?i=gcp" width="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="60">
   <img src="https://skillicons.dev/icons?i=prometheus" width="60">
