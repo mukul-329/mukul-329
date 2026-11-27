@@ -72,15 +72,15 @@ I'm a **DevOps & Cloud Engineer with 4+ years of experience** grounded in produc
 </div>
 
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-| Project | Description | Status |
-|---|---|---|
-| [**kubeadm-k8s**](https://github.com/mukul-329/kubeadm-k8s-cluster) | Automated Kubernetes cluster provisioning on AWS EC2 using Ansible, kubeadm, and Cilium. | 🟡 In Progress |
-| [**WebBlog**](https://github.com/mukul-329/WebBlog) | 3-tier web application with containerization, CI/CD, and Kubernetes deployment.  | 🟡 In Progress |
-| [**OneApps**](https://github.com/mukul-329/OneApps) | Multi-service platform designed to bring media, commerce, travel, payments, and learning into one ecosystem. | 🟡 In Progress |
-| [**DevBoard**](https://github.com/mukul-329/devboard) | A project and task management platform designed for team collaboration and progress tracking. | 🟡 In Progress |
-| [**VM Module**](https://github.com/mukul-329/terraform-azurerm-virtual-machine-windows-linux) | A reusable Terraform module published on registry for provisioning virtual machines on Microsoft Azure. | 🟢 Completed |
+| Project | Description | Tech Focus | Status |
+| :--- | :--- | :--- | :---: |
+| [**VM Module**](https://github.com/mukul-329/terraform-azurerm-virtual-machine-windows-linux) | Reusable Terraform module published on the registry for provisioning Windows & Linux VMs on Microsoft Azure. | `Terraform` `Azure` | 🟢 Completed |
+| [**kubeadm-k8s**](https://github.com/mukul-329/kubeadm-k8s-cluster) | Automated Kubernetes cluster provisioning on AWS EC2 using Ansible, kubeadm, and Cilium CNI. | `AWS` `K8s` `Ansible` | 🟡 In Progress |
+| [**WebBlog**](https://github.com/mukul-329/WebBlog) | 3-tier web application featuring containerization, automated CI/CD pipelines, and Kubernetes deployment. | `Docker` `K8s` `CI/CD` | 🟡 In Progress |
+| [**OneApps**](https://github.com/mukul-329/OneApps) | Multi-service platform uniting media, commerce, travel, payments, and learning into a single ecosystem. | `Microservices` `Cloud` | 🟡 In Progress |
+| [**DevBoard**](https://github.com/mukul-329/devboard) | Project and task management platform built for engineering team collaboration and progress tracking. | `Full-Stack` `DevOps` | 🟡 In Progress |
 
 
 ## 🎓 Certifications
