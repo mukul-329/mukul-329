@@ -14,18 +14,15 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=500&color=207195&width=700&lines=Cloud+%26+DevSecOps+Engineer+%7C+4%2B+years+of+experience;Multi-Cloud+Experience+-+AWS%2C+Azure%2C+GCP" alt="Typing SVG" /></a>
 
-## About Me
-I'm a **DevOps Engineer** with a strong operations background, experienced in working with production environments, troubleshooting incidents, monitoring systems, and understanding the challenges that teams face in day-to-day operations.
+## 👨‍💻 About Me
 
-My experience in operations has shaped the way I approach DevOps — focusing not just on deploying systems, but on making them **reliable, observable, automated, and easier to operate.**
+I'm a **DevOps & Cloud Engineer with 4+ years of experience** grounded in production operations, incident troubleshooting, and system monitoring. My operations background shapes how I build infrastructure—focusing not just on shipping code, but on making platforms **resilient, observable, automated, and easy to operate.**
 
-- 🔧 Bringing my **operations experience and production knowledge** into DevOps Engineering.
-- ☁️ Working with **AWS**, **Azure**, **Terraform**, **Kubernetes**, **Docker**, and **Ansible**.
-- 🔄 Building **CI/CD** and **GitOps** workflows to reduce manual effort and deployment issues.
-- 📊 Focusing on **monitoring**, **observability**, **incident response**, and **system reliability**.
-- 🛠️ Automating repetitive operational tasks and infrastructure processes
-- 🧠 Using real-world operations challenges to build practical and reliable DevOps solutions
-- 🚀 Continuously learning and contributing to **Cloud**, **DevOps**, **Kubernetes**, and **Platform Engineering**.
+- ☁️ **Multi-Cloud & IaC:** Architecting and automating infrastructure across **AWS**, **Azure**, and **GCP** using **Terraform** and **Ansible**.
+- 🔄 **CI/CD & GitOps:** Building automated delivery pipelines to eliminate manual toil and reduce deployment friction.
+- 📊 **Reliability & Observability:** Designing proactive monitoring, alerting, and incident response workflows for production environments.
+- 🚀 **Continuous Builder:** Currently building **WebBlog** and **Job Assistance** platforms while contributing to Cloud, Kubernetes, and Platform Engineering.
+
 
 <!-- <p align="center">
   <img
