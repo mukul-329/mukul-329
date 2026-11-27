@@ -97,7 +97,7 @@ My experience in operations has shaped the way I approach DevOps — focusing no
 
 ### 🤝 Let’s build, automate, and scale together!
 
-**Open to DevOps · SRE · Cloud / Platform Engineer roles**
+**Open to DevOps · SRE · Cloud · Platform Engineer roles**
 
 <a href="https://www.linkedin.com/in/mukulsengar/"><img src="https://img.shields.io/badge/-Let's%20Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mukulsengar329@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
